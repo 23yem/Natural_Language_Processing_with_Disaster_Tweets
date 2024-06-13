@@ -1,0 +1,2001 @@
+trial_id,study_id,study_name,param_name,param_value,score
+38,14,disaster_,batch_size,2,"In Progress Or Failed"
+38,14,disaster_,dropout_rate,0.4596652651798909,"In Progress Or Failed"
+38,14,disaster_,learning_rate,0.0000029319031308209617,"In Progress Or Failed"
+38,14,disaster_,lr_scheduler_type,3,"In Progress Or Failed"
+38,14,disaster_,num_epochs,3,"In Progress Or Failed"
+38,14,disaster_,weight_decay,0.08672138260142791,"In Progress Or Failed"
+41,14,disaster_,batch_size,0,"In Progress Or Failed"
+41,14,disaster_,dropout_rate,0.4140027493742736,"In Progress Or Failed"
+41,14,disaster_,learning_rate,0.000046278182314826484,"In Progress Or Failed"
+41,14,disaster_,lr_scheduler_type,2,"In Progress Or Failed"
+41,14,disaster_,num_epochs,10,"In Progress Or Failed"
+41,14,disaster_,weight_decay,0.01006252101199583,"In Progress Or Failed"
+44,16,disaster__,batch_size,0,0.7692307692307692
+44,16,disaster__,dropout_rate,0.267992618762078,0.7692307692307692
+44,16,disaster__,learning_rate,0.000002887272146290392,0.7692307692307692
+44,16,disaster__,lr_scheduler_type,3,0.7692307692307692
+44,16,disaster__,num_epochs,2,0.7692307692307692
+44,16,disaster__,weight_decay,0.055580746857693486,0.7692307692307692
+48,16,disaster__,batch_size,0,"In Progress Or Failed"
+48,16,disaster__,dropout_rate,0.10266104510885943,"In Progress Or Failed"
+48,16,disaster__,learning_rate,0.000001854234497865201,"In Progress Or Failed"
+48,16,disaster__,lr_scheduler_type,3,"In Progress Or Failed"
+48,16,disaster__,num_epochs,2,"In Progress Or Failed"
+48,16,disaster__,weight_decay,0.05858931611297846,"In Progress Or Failed"
+2,2,disaster_2,batch_size,0,"In Progress Or Failed"
+2,2,disaster_2,dropout_rate,0.11992050039473186,"In Progress Or Failed"
+2,2,disaster_2,learning_rate,0.00008314579974784867,"In Progress Or Failed"
+2,2,disaster_2,lr_scheduler_type,3,"In Progress Or Failed"
+2,2,disaster_2,num_epochs,10,"In Progress Or Failed"
+2,2,disaster_2,weight_decay,0.042237768043688756,"In Progress Or Failed"
+3,2,disaster_2,batch_size,0,0.7678244972577697
+3,2,disaster_2,dropout_rate,0.4272247447364871,0.7678244972577697
+3,2,disaster_2,learning_rate,0.000010738463038384475,0.7678244972577697
+3,2,disaster_2,lr_scheduler_type,2,0.7678244972577697
+3,2,disaster_2,num_epochs,3,0.7678244972577697
+3,2,disaster_2,weight_decay,0.08696520228659972,0.7678244972577697
+4,2,disaster_2,batch_size,0,"In Progress Or Failed"
+4,2,disaster_2,dropout_rate,0.3966172372746315,"In Progress Or Failed"
+4,2,disaster_2,learning_rate,0.0000015231465978763496,"In Progress Or Failed"
+4,2,disaster_2,lr_scheduler_type,3,"In Progress Or Failed"
+4,2,disaster_2,num_epochs,8,"In Progress Or Failed"
+4,2,disaster_2,weight_decay,0.0404378185969974,"In Progress Or Failed"
+5,2,disaster_2,batch_size,0,"In Progress Or Failed"
+5,2,disaster_2,dropout_rate,0.1238892521545572,"In Progress Or Failed"
+5,2,disaster_2,learning_rate,0.000002145340951978625,"In Progress Or Failed"
+5,2,disaster_2,lr_scheduler_type,0,"In Progress Or Failed"
+5,2,disaster_2,num_epochs,10,"In Progress Or Failed"
+5,2,disaster_2,weight_decay,0.07725107908156219,"In Progress Or Failed"
+6,2,disaster_2,batch_size,1,"In Progress Or Failed"
+6,2,disaster_2,dropout_rate,0.16400227160996553,"In Progress Or Failed"
+6,2,disaster_2,learning_rate,0.000023474146101674086,"In Progress Or Failed"
+6,2,disaster_2,lr_scheduler_type,3,"In Progress Or Failed"
+6,2,disaster_2,num_epochs,4,"In Progress Or Failed"
+6,2,disaster_2,weight_decay,0.0004586406495567408,"In Progress Or Failed"
+7,2,disaster_2,batch_size,0,"In Progress Or Failed"
+7,2,disaster_2,dropout_rate,0.2306774997025615,"In Progress Or Failed"
+7,2,disaster_2,learning_rate,0.000003919316235708465,"In Progress Or Failed"
+7,2,disaster_2,lr_scheduler_type,3,"In Progress Or Failed"
+7,2,disaster_2,num_epochs,9,"In Progress Or Failed"
+7,2,disaster_2,weight_decay,0.018516917702059123,"In Progress Or Failed"
+8,2,disaster_2,batch_size,2,"In Progress Or Failed"
+8,2,disaster_2,dropout_rate,0.1937826610165134,"In Progress Or Failed"
+8,2,disaster_2,learning_rate,0.00004222291262929673,"In Progress Or Failed"
+8,2,disaster_2,lr_scheduler_type,1,"In Progress Or Failed"
+8,2,disaster_2,num_epochs,4,"In Progress Or Failed"
+8,2,disaster_2,weight_decay,0.02160260943817929,"In Progress Or Failed"
+9,8,disaster_4,batch_size,2,0.7533432392273403
+9,8,disaster_4,dropout_rate,0.12803470394114358,0.7533432392273403
+9,8,disaster_4,learning_rate,0.00000655273279351668,0.7533432392273403
+9,8,disaster_4,lr_scheduler_type,1,0.7533432392273403
+9,8,disaster_4,num_epochs,9,0.7533432392273403
+9,8,disaster_4,weight_decay,0.0822483383846765,0.7533432392273403
+10,8,disaster_4,batch_size,0,0.7669039145907474
+10,8,disaster_4,dropout_rate,0.24031458528392055,0.7669039145907474
+10,8,disaster_4,learning_rate,0.000004469034458027671,0.7669039145907474
+10,8,disaster_4,lr_scheduler_type,3,0.7669039145907474
+10,8,disaster_4,num_epochs,10,0.7669039145907474
+10,8,disaster_4,weight_decay,0.04960231170186551,0.7669039145907474
+11,8,disaster_4,batch_size,0,0.7335423197492164
+11,8,disaster_4,dropout_rate,0.18720547674041682,0.7335423197492164
+11,8,disaster_4,learning_rate,0.000023656720873799207,0.7335423197492164
+11,8,disaster_4,lr_scheduler_type,1,0.7335423197492164
+11,8,disaster_4,num_epochs,6,0.7335423197492164
+11,8,disaster_4,weight_decay,0.02249594419860508,0.7335423197492164
+12,8,disaster_4,batch_size,2,0.7478559176672384
+12,8,disaster_4,dropout_rate,0.22230894622997932,0.7478559176672384
+12,8,disaster_4,learning_rate,0.000052701940337051276,0.7478559176672384
+12,8,disaster_4,lr_scheduler_type,1,0.7478559176672384
+12,8,disaster_4,num_epochs,10,0.7478559176672384
+12,8,disaster_4,weight_decay,0.059269496758800326,0.7478559176672384
+13,8,disaster_4,batch_size,2,0.7777777777777779
+13,8,disaster_4,dropout_rate,0.338193347556866,0.7777777777777779
+13,8,disaster_4,learning_rate,0.000009714796730426122,0.7777777777777779
+13,8,disaster_4,lr_scheduler_type,0,0.7777777777777779
+13,8,disaster_4,num_epochs,6,0.7777777777777779
+13,8,disaster_4,weight_decay,0.07299751816970888,0.7777777777777779
+14,8,disaster_4,batch_size,0,0.7774846086191732
+14,8,disaster_4,dropout_rate,0.3302508694119678,0.7774846086191732
+14,8,disaster_4,learning_rate,0.000003303023074652399,0.7774846086191732
+14,8,disaster_4,lr_scheduler_type,2,0.7774846086191732
+14,8,disaster_4,num_epochs,5,0.7774846086191732
+14,8,disaster_4,weight_decay,0.04489180441920119,0.7774846086191732
+15,8,disaster_4,batch_size,2,0.766355140186916
+15,8,disaster_4,dropout_rate,0.29618143546675124,0.766355140186916
+15,8,disaster_4,learning_rate,0.000011957350078564344,0.766355140186916
+15,8,disaster_4,lr_scheduler_type,3,0.766355140186916
+15,8,disaster_4,num_epochs,9,0.766355140186916
+15,8,disaster_4,weight_decay,0.09355226559931043,0.766355140186916
+16,8,disaster_4,batch_size,1,0.7720125786163522
+16,8,disaster_4,dropout_rate,0.38338724478958663,0.7720125786163522
+16,8,disaster_4,learning_rate,0.00001879609097639185,0.7720125786163522
+16,8,disaster_4,lr_scheduler_type,3,0.7720125786163522
+16,8,disaster_4,num_epochs,6,0.7720125786163522
+16,8,disaster_4,weight_decay,0.048357349478152234,0.7720125786163522
+17,8,disaster_4,batch_size,0,0.7611408199643493
+17,8,disaster_4,dropout_rate,0.36227803392358815,0.7611408199643493
+17,8,disaster_4,learning_rate,0.000027071620877026125,0.7611408199643493
+17,8,disaster_4,lr_scheduler_type,2,0.7611408199643493
+17,8,disaster_4,num_epochs,4,0.7611408199643493
+17,8,disaster_4,weight_decay,0.043465342731741775,0.7611408199643493
+18,8,disaster_4,batch_size,0,0.7776809067131648
+18,8,disaster_4,dropout_rate,0.3510697015579798,0.7776809067131648
+18,8,disaster_4,learning_rate,0.000002317005366375166,0.7776809067131648
+18,8,disaster_4,lr_scheduler_type,2,0.7776809067131648
+18,8,disaster_4,num_epochs,9,0.7776809067131648
+18,8,disaster_4,weight_decay,0.004227167795116671,0.7776809067131648
+19,8,disaster_4,batch_size,2,0.7551369863013699
+19,8,disaster_4,dropout_rate,0.29871230530055926,0.7551369863013699
+19,8,disaster_4,learning_rate,0.0000653749564381372,0.7551369863013699
+19,8,disaster_4,lr_scheduler_type,0,0.7551369863013699
+19,8,disaster_4,num_epochs,4,0.7551369863013699
+19,8,disaster_4,weight_decay,0.058556930467604296,0.7551369863013699
+20,8,disaster_4,batch_size,1,0.7584269662921347
+20,8,disaster_4,dropout_rate,0.13230280453924662,0.7584269662921347
+20,8,disaster_4,learning_rate,0.000002883029891871712,0.7584269662921347
+20,8,disaster_4,lr_scheduler_type,3,0.7584269662921347
+20,8,disaster_4,num_epochs,3,0.7584269662921347
+20,8,disaster_4,weight_decay,0.05802640724252675,0.7584269662921347
+21,8,disaster_4,batch_size,2,0.7703568161024702
+21,8,disaster_4,dropout_rate,0.3002259241660593,0.7703568161024702
+21,8,disaster_4,learning_rate,0.000010104324295319348,0.7703568161024702
+21,8,disaster_4,lr_scheduler_type,3,0.7703568161024702
+21,8,disaster_4,num_epochs,8,0.7703568161024702
+21,8,disaster_4,weight_decay,0.03267958531285999,0.7703568161024702
+22,8,disaster_4,batch_size,1,0.6435331230283913
+22,8,disaster_4,dropout_rate,0.4946145920933381,0.6435331230283913
+22,8,disaster_4,learning_rate,0.0000011953746895561178,0.6435331230283913
+22,8,disaster_4,lr_scheduler_type,0,0.6435331230283913
+22,8,disaster_4,num_epochs,8,0.6435331230283913
+22,8,disaster_4,weight_decay,0.004279332229906674,0.6435331230283913
+23,8,disaster_4,batch_size,0,0.7617449664429529
+23,8,disaster_4,dropout_rate,0.46986936527378487,0.7617449664429529
+23,8,disaster_4,learning_rate,0.0000011160364548512652,0.7617449664429529
+23,8,disaster_4,lr_scheduler_type,0,0.7617449664429529
+23,8,disaster_4,num_epochs,7,0.7617449664429529
+23,8,disaster_4,weight_decay,0.009384292876567078,0.7617449664429529
+24,8,disaster_4,batch_size,0,0.6165413533834587
+24,8,disaster_4,dropout_rate,0.47503770131957135,0.6165413533834587
+24,8,disaster_4,learning_rate,0.0000010734199547151083,0.6165413533834587
+24,8,disaster_4,lr_scheduler_type,0,0.6165413533834587
+24,8,disaster_4,num_epochs,5,0.6165413533834587
+24,8,disaster_4,weight_decay,0.005656819693306038,0.6165413533834587
+25,8,disaster_4,batch_size,0,0.6523605150214592
+25,8,disaster_4,dropout_rate,0.47734020874910876,0.6523605150214592
+25,8,disaster_4,learning_rate,0.000001076285899252668,0.6523605150214592
+25,8,disaster_4,lr_scheduler_type,0,0.6523605150214592
+25,8,disaster_4,num_epochs,7,0.6523605150214592
+25,8,disaster_4,weight_decay,0.0007147450153181883,0.6523605150214592
+26,8,disaster_4,batch_size,0,0.7770034843205574
+26,8,disaster_4,dropout_rate,0.4377291941520558,0.7770034843205574
+26,8,disaster_4,learning_rate,0.0000013678687853519092,0.7770034843205574
+26,8,disaster_4,lr_scheduler_type,0,0.7770034843205574
+26,8,disaster_4,num_epochs,7,0.7770034843205574
+26,8,disaster_4,weight_decay,0.07596284245333228,0.7770034843205574
+27,8,disaster_4,batch_size,0,"In Progress Or Failed"
+27,8,disaster_4,dropout_rate,0.4179307805489333,"In Progress Or Failed"
+27,8,disaster_4,learning_rate,0.000005506419806080186,"In Progress Or Failed"
+27,8,disaster_4,lr_scheduler_type,2,"In Progress Or Failed"
+27,8,disaster_4,num_epochs,7,"In Progress Or Failed"
+27,8,disaster_4,weight_decay,0.07587476329512143,"In Progress Or Failed"
+28,8,disaster_4,batch_size,2,0.7641843971631206
+28,8,disaster_4,dropout_rate,0.4091595186078007,0.7641843971631206
+28,8,disaster_4,learning_rate,0.0000020921715966781044,0.7641843971631206
+28,8,disaster_4,lr_scheduler_type,2,0.7641843971631206
+28,8,disaster_4,num_epochs,7,0.7641843971631206
+28,8,disaster_4,weight_decay,0.07202372548933492,0.7641843971631206
+29,8,disaster_4,batch_size,2,0.7711442786069652
+29,8,disaster_4,dropout_rate,0.4085426153556403,0.7711442786069652
+29,8,disaster_4,learning_rate,0.0000019846625019986007,0.7711442786069652
+29,8,disaster_4,lr_scheduler_type,2,0.7711442786069652
+29,8,disaster_4,num_epochs,8,0.7711442786069652
+29,8,disaster_4,weight_decay,0.08232480496396345,0.7711442786069652
+30,8,disaster_4,batch_size,2,0.7706422018348623
+30,8,disaster_4,dropout_rate,0.40516135065053094,0.7706422018348623
+30,8,disaster_4,learning_rate,0.000005904530687945438,0.7706422018348623
+30,8,disaster_4,lr_scheduler_type,2,0.7706422018348623
+30,8,disaster_4,num_epochs,8,0.7706422018348623
+30,8,disaster_4,weight_decay,0.06828070961054873,0.7706422018348623
+31,8,disaster_4,batch_size,2,0.7751430907604251
+31,8,disaster_4,dropout_rate,0.3435314254780687,0.7751430907604251
+31,8,disaster_4,learning_rate,0.000006314309479402871,0.7751430907604251
+31,8,disaster_4,lr_scheduler_type,2,0.7751430907604251
+31,8,disaster_4,num_epochs,9,0.7751430907604251
+31,8,disaster_4,weight_decay,0.09700162296195643,0.7751430907604251
+32,8,disaster_4,batch_size,2,0.7802385008517887
+32,8,disaster_4,dropout_rate,0.346489204281393,0.7802385008517887
+32,8,disaster_4,learning_rate,0.000005863941187320289,0.7802385008517887
+32,8,disaster_4,lr_scheduler_type,2,0.7802385008517887
+32,8,disaster_4,num_epochs,9,0.7802385008517887
+32,8,disaster_4,weight_decay,0.09700185911263151,0.7802385008517887
+33,8,disaster_4,batch_size,1,0.7750439367311072
+33,8,disaster_4,dropout_rate,0.3485687111762696,0.7750439367311072
+33,8,disaster_4,learning_rate,0.000007079521183240447,0.7750439367311072
+33,8,disaster_4,lr_scheduler_type,2,0.7750439367311072
+33,8,disaster_4,num_epochs,9,0.7750439367311072
+33,8,disaster_4,weight_decay,0.01813704666543612,0.7750439367311072
+34,8,disaster_4,batch_size,0,0.7795414462081129
+34,8,disaster_4,dropout_rate,0.3325755748208305,0.7795414462081129
+34,8,disaster_4,learning_rate,0.0000031702765321360915,0.7795414462081129
+34,8,disaster_4,lr_scheduler_type,2,0.7795414462081129
+34,8,disaster_4,num_epochs,5,0.7795414462081129
+34,8,disaster_4,weight_decay,0.028982168844544572,0.7795414462081129
+35,8,disaster_4,batch_size,0,"In Progress Or Failed"
+35,8,disaster_4,dropout_rate,0.33069662320707643,"In Progress Or Failed"
+35,8,disaster_4,learning_rate,0.0000031548428927575532,"In Progress Or Failed"
+35,8,disaster_4,lr_scheduler_type,2,"In Progress Or Failed"
+35,8,disaster_4,num_epochs,5,"In Progress Or Failed"
+35,8,disaster_4,weight_decay,0.026359339988223665,"In Progress Or Failed"
+36,8,disaster_4,batch_size,0,"In Progress Or Failed"
+36,8,disaster_4,dropout_rate,0.33551225788968214,"In Progress Or Failed"
+36,8,disaster_4,learning_rate,0.0000034203198064667526,"In Progress Or Failed"
+36,8,disaster_4,lr_scheduler_type,2,"In Progress Or Failed"
+36,8,disaster_4,num_epochs,5,"In Progress Or Failed"
+36,8,disaster_4,weight_decay,0.02233209968528595,"In Progress Or Failed"
+37,8,disaster_4,batch_size,2,0.7723785166240409
+37,8,disaster_4,dropout_rate,0.2674973733124931,0.7723785166240409
+37,8,disaster_4,learning_rate,0.000014610834770823498,0.7723785166240409
+37,8,disaster_4,lr_scheduler_type,2,0.7723785166240409
+37,8,disaster_4,num_epochs,10,0.7723785166240409
+37,8,disaster_4,weight_decay,0.08532862164996348,0.7723785166240409
+39,8,disaster_4,batch_size,2,0.7705334462320068
+39,8,disaster_4,dropout_rate,0.25949461734806867,0.7705334462320068
+39,8,disaster_4,learning_rate,0.000014331476940965594,0.7705334462320068
+39,8,disaster_4,lr_scheduler_type,2,0.7705334462320068
+39,8,disaster_4,num_epochs,10,0.7705334462320068
+39,8,disaster_4,weight_decay,0.09061338679885574,0.7705334462320068
+40,8,disaster_4,batch_size,2,0.759322033898305
+40,8,disaster_4,dropout_rate,0.2584616593475377,0.759322033898305
+40,8,disaster_4,learning_rate,0.000012887726743992683,0.759322033898305
+40,8,disaster_4,lr_scheduler_type,2,0.759322033898305
+40,8,disaster_4,num_epochs,5,0.759322033898305
+40,8,disaster_4,weight_decay,0.08995880863665942,0.759322033898305
+42,8,disaster_4,batch_size,2,0.7752332485156913
+42,8,disaster_4,dropout_rate,0.2798077043366766,0.7752332485156913
+42,8,disaster_4,learning_rate,0.0000042669636287540175,0.7752332485156913
+42,8,disaster_4,lr_scheduler_type,2,0.7752332485156913
+42,8,disaster_4,num_epochs,6,0.7752332485156913
+42,8,disaster_4,weight_decay,0.033628715346946905,0.7752332485156913
+43,8,disaster_4,batch_size,2,0.774869109947644
+43,8,disaster_4,dropout_rate,0.3093352670966169,0.774869109947644
+43,8,disaster_4,learning_rate,0.000003835115793044618,0.774869109947644
+43,8,disaster_4,lr_scheduler_type,0,0.774869109947644
+43,8,disaster_4,num_epochs,6,0.774869109947644
+43,8,disaster_4,weight_decay,0.03070137492517036,0.774869109947644
+45,8,disaster_4,batch_size,2,0.774586597040905
+45,8,disaster_4,dropout_rate,0.31991656585182726,0.774586597040905
+45,8,disaster_4,learning_rate,0.000004643306704673693,0.774586597040905
+45,8,disaster_4,lr_scheduler_type,0,0.774586597040905
+45,8,disaster_4,num_epochs,6,0.774586597040905
+45,8,disaster_4,weight_decay,0.0343991828440194,0.774586597040905
+46,8,disaster_4,batch_size,1,0.7782290820471163
+46,8,disaster_4,dropout_rate,0.37713144334950977,0.7782290820471163
+46,8,disaster_4,learning_rate,0.000008459017321935918,0.7782290820471163
+46,8,disaster_4,lr_scheduler_type,1,0.7782290820471163
+46,8,disaster_4,num_epochs,4,0.7782290820471163
+46,8,disaster_4,weight_decay,0.06624990177757582,0.7782290820471163
+47,8,disaster_4,batch_size,1,0.7673397717295873
+47,8,disaster_4,dropout_rate,0.3812486305461022,0.7673397717295873
+47,8,disaster_4,learning_rate,0.00000817485847674236,0.7673397717295873
+47,8,disaster_4,lr_scheduler_type,1,0.7673397717295873
+47,8,disaster_4,num_epochs,4,0.7673397717295873
+47,8,disaster_4,weight_decay,0.06658459371520631,0.7673397717295873
+49,8,disaster_4,batch_size,0,0.7552320291173794
+49,8,disaster_4,dropout_rate,0.3747554344103061,0.7552320291173794
+49,8,disaster_4,learning_rate,0.000002298862802021001,0.7552320291173794
+49,8,disaster_4,lr_scheduler_type,1,0.7552320291173794
+49,8,disaster_4,num_epochs,4,0.7552320291173794
+49,8,disaster_4,weight_decay,0.01534809533330747,0.7552320291173794
+50,8,disaster_4,batch_size,0,0.7820844099913866
+50,8,disaster_4,dropout_rate,0.3837729048424013,0.7820844099913866
+50,8,disaster_4,learning_rate,0.000002404171471120537,0.7820844099913866
+50,8,disaster_4,lr_scheduler_type,1,0.7820844099913866
+50,8,disaster_4,num_epochs,4,0.7820844099913866
+50,8,disaster_4,weight_decay,0.014673357524430759,0.7820844099913866
+51,8,disaster_4,batch_size,1,0.7761437908496731
+51,8,disaster_4,dropout_rate,0.37780467657569416,0.7761437908496731
+51,8,disaster_4,learning_rate,0.000008091816729592325,0.7761437908496731
+51,8,disaster_4,lr_scheduler_type,1,0.7761437908496731
+51,8,disaster_4,num_epochs,4,0.7761437908496731
+51,8,disaster_4,weight_decay,0.06504519309780259,0.7761437908496731
+52,8,disaster_4,batch_size,1,0.781491002570694
+52,8,disaster_4,dropout_rate,0.37592173344107493,0.781491002570694
+52,8,disaster_4,learning_rate,0.000005509468268751441,0.781491002570694
+52,8,disaster_4,lr_scheduler_type,1,0.781491002570694
+52,8,disaster_4,num_epochs,3,0.781491002570694
+52,8,disaster_4,weight_decay,0.06308593522658767,0.781491002570694
+53,8,disaster_4,batch_size,1,0.7803278688524589
+53,8,disaster_4,dropout_rate,0.4427538586000962,0.7803278688524589
+53,8,disaster_4,learning_rate,0.000009340118632555645,0.7803278688524589
+53,8,disaster_4,lr_scheduler_type,1,0.7803278688524589
+53,8,disaster_4,num_epochs,3,0.7803278688524589
+53,8,disaster_4,weight_decay,0.07823418930897347,0.7803278688524589
+54,8,disaster_4,batch_size,1,0.7240411599625818
+54,8,disaster_4,dropout_rate,0.4323307333453663,0.7240411599625818
+54,8,disaster_4,learning_rate,0.000001661032597731207,0.7240411599625818
+54,8,disaster_4,lr_scheduler_type,1,0.7240411599625818
+54,8,disaster_4,num_epochs,3,0.7240411599625818
+54,8,disaster_4,weight_decay,0.02105621159109088,0.7240411599625818
+55,8,disaster_4,batch_size,0,"In Progress Or Failed"
+55,8,disaster_4,dropout_rate,0.43373206404392234,"In Progress Or Failed"
+55,8,disaster_4,learning_rate,0.0000015670843751803462,"In Progress Or Failed"
+55,8,disaster_4,lr_scheduler_type,1,"In Progress Or Failed"
+55,8,disaster_4,num_epochs,3,"In Progress Or Failed"
+55,8,disaster_4,weight_decay,0.02411911200148622,"In Progress Or Failed"
+56,8,disaster_4,batch_size,0,"In Progress Or Failed"
+56,8,disaster_4,dropout_rate,0.43776752891743337,"In Progress Or Failed"
+56,8,disaster_4,learning_rate,0.0000056010442612594265,"In Progress Or Failed"
+56,8,disaster_4,lr_scheduler_type,1,"In Progress Or Failed"
+56,8,disaster_4,num_epochs,3,"In Progress Or Failed"
+56,8,disaster_4,weight_decay,0.02799298574728554,"In Progress Or Failed"
+57,8,disaster_4,batch_size,1,"In Progress Or Failed"
+57,8,disaster_4,dropout_rate,0.44056141430328327,"In Progress Or Failed"
+57,8,disaster_4,learning_rate,0.00003683097240481578,"In Progress Or Failed"
+57,8,disaster_4,lr_scheduler_type,1,"In Progress Or Failed"
+57,8,disaster_4,num_epochs,3,"In Progress Or Failed"
+57,8,disaster_4,weight_decay,0.07836536831784915,"In Progress Or Failed"
+58,8,disaster_4,batch_size,1,"In Progress Or Failed"
+58,8,disaster_4,dropout_rate,0.21294494978801629,"In Progress Or Failed"
+58,8,disaster_4,learning_rate,0.000038421770503590235,"In Progress Or Failed"
+58,8,disaster_4,lr_scheduler_type,1,"In Progress Or Failed"
+58,8,disaster_4,num_epochs,3,"In Progress Or Failed"
+58,8,disaster_4,weight_decay,0.0779438225874674,"In Progress Or Failed"
+102,50,disaster_keyword_0,batch_size,2,"In Progress Or Failed"
+102,50,disaster_keyword_0,dropout_rate,0.16310759533811492,"In Progress Or Failed"
+102,50,disaster_keyword_0,learning_rate,0.00004098363293102688,"In Progress Or Failed"
+102,50,disaster_keyword_0,lr_scheduler_type,3,"In Progress Or Failed"
+102,50,disaster_keyword_0,num_epochs,7,"In Progress Or Failed"
+102,50,disaster_keyword_0,weight_decay,0.022358609848816526,"In Progress Or Failed"
+103,50,disaster_keyword_0,batch_size,1,0.4739176219116076
+103,50,disaster_keyword_0,dropout_rate,0.20520282519666685,0.4739176219116076
+103,50,disaster_keyword_0,learning_rate,0.000003922702660373781,0.4739176219116076
+103,50,disaster_keyword_0,lr_scheduler_type,1,0.4739176219116076
+103,50,disaster_keyword_0,num_epochs,4,0.4739176219116076
+103,50,disaster_keyword_0,weight_decay,0.014631492589928564,0.4739176219116076
+104,50,disaster_keyword_0,batch_size,2,"In Progress Or Failed"
+104,50,disaster_keyword_0,dropout_rate,0.4332065496689729,"In Progress Or Failed"
+104,50,disaster_keyword_0,learning_rate,0.00008422011850512964,"In Progress Or Failed"
+104,50,disaster_keyword_0,lr_scheduler_type,0,"In Progress Or Failed"
+104,50,disaster_keyword_0,num_epochs,6,"In Progress Or Failed"
+104,50,disaster_keyword_0,weight_decay,0.01057668632474662,"In Progress Or Failed"
+105,50,disaster_keyword_0,batch_size,2,"In Progress Or Failed"
+105,50,disaster_keyword_0,dropout_rate,0.31716852913140353,"In Progress Or Failed"
+105,50,disaster_keyword_0,learning_rate,0.000015951798973617864,"In Progress Or Failed"
+105,50,disaster_keyword_0,lr_scheduler_type,1,"In Progress Or Failed"
+105,50,disaster_keyword_0,num_epochs,5,"In Progress Or Failed"
+105,50,disaster_keyword_0,weight_decay,0.05370273748186889,"In Progress Or Failed"
+106,50,disaster_keyword_0,batch_size,0,0.469031033466018
+106,50,disaster_keyword_0,dropout_rate,0.17006531948215478,0.469031033466018
+106,50,disaster_keyword_0,learning_rate,0.000001119363019429371,0.469031033466018
+106,50,disaster_keyword_0,lr_scheduler_type,1,0.469031033466018
+106,50,disaster_keyword_0,num_epochs,3,0.469031033466018
+106,50,disaster_keyword_0,weight_decay,0.01052481426264451,0.469031033466018
+107,50,disaster_keyword_0,batch_size,0,0.472591943204503
+107,50,disaster_keyword_0,dropout_rate,0.18750968533371518,0.472591943204503
+107,50,disaster_keyword_0,learning_rate,0.0000050516728373619066,0.472591943204503
+107,50,disaster_keyword_0,lr_scheduler_type,0,0.472591943204503
+107,50,disaster_keyword_0,num_epochs,3,0.472591943204503
+107,50,disaster_keyword_0,weight_decay,0.007374523326291549,0.472591943204503
+108,50,disaster_keyword_0,batch_size,1,"In Progress Or Failed"
+108,50,disaster_keyword_0,dropout_rate,0.47398341147794476,"In Progress Or Failed"
+108,50,disaster_keyword_0,learning_rate,0.000011856114543571058,"In Progress Or Failed"
+108,50,disaster_keyword_0,lr_scheduler_type,3,"In Progress Or Failed"
+108,50,disaster_keyword_0,num_epochs,7,"In Progress Or Failed"
+108,50,disaster_keyword_0,weight_decay,0.0895080685054125,"In Progress Or Failed"
+109,50,disaster_keyword_0,batch_size,2,"In Progress Or Failed"
+109,50,disaster_keyword_0,dropout_rate,0.4580851230938494,"In Progress Or Failed"
+109,50,disaster_keyword_0,learning_rate,0.0000010956358355932693,"In Progress Or Failed"
+109,50,disaster_keyword_0,lr_scheduler_type,1,"In Progress Or Failed"
+109,50,disaster_keyword_0,num_epochs,8,"In Progress Or Failed"
+109,50,disaster_keyword_0,weight_decay,0.045000126838533744,"In Progress Or Failed"
+110,50,disaster_keyword_0,batch_size,2,"In Progress Or Failed"
+110,50,disaster_keyword_0,dropout_rate,0.2737810368928292,"In Progress Or Failed"
+110,50,disaster_keyword_0,learning_rate,0.000007838968177285747,"In Progress Or Failed"
+110,50,disaster_keyword_0,lr_scheduler_type,1,"In Progress Or Failed"
+110,50,disaster_keyword_0,num_epochs,9,"In Progress Or Failed"
+110,50,disaster_keyword_0,weight_decay,0.042102626971418526,"In Progress Or Failed"
+111,50,disaster_keyword_0,batch_size,1,"In Progress Or Failed"
+111,50,disaster_keyword_0,dropout_rate,0.21921599838784644,"In Progress Or Failed"
+111,50,disaster_keyword_0,learning_rate,0.0000010645000478639181,"In Progress Or Failed"
+111,50,disaster_keyword_0,lr_scheduler_type,0,"In Progress Or Failed"
+111,50,disaster_keyword_0,num_epochs,5,"In Progress Or Failed"
+111,50,disaster_keyword_0,weight_decay,0.09845504391531695,"In Progress Or Failed"
+112,57,disaster_keyword_1,batch_size,1,"In Progress Or Failed"
+112,57,disaster_keyword_1,dropout_rate,0.12760782367569581,"In Progress Or Failed"
+112,57,disaster_keyword_1,learning_rate,0.0000027329878555023003,"In Progress Or Failed"
+112,57,disaster_keyword_1,lr_scheduler_type,1,"In Progress Or Failed"
+112,57,disaster_keyword_1,num_epochs,10,"In Progress Or Failed"
+112,57,disaster_keyword_1,weight_decay,0.00506409734857124,"In Progress Or Failed"
+113,57,disaster_keyword_1,batch_size,2,"In Progress Or Failed"
+113,57,disaster_keyword_1,dropout_rate,0.3971308122308249,"In Progress Or Failed"
+113,57,disaster_keyword_1,learning_rate,0.00008682914933684044,"In Progress Or Failed"
+113,57,disaster_keyword_1,lr_scheduler_type,2,"In Progress Or Failed"
+113,57,disaster_keyword_1,num_epochs,10,"In Progress Or Failed"
+113,57,disaster_keyword_1,weight_decay,0.027797499087195587,"In Progress Or Failed"
+114,57,disaster_keyword_1,batch_size,1,"In Progress Or Failed"
+114,57,disaster_keyword_1,dropout_rate,0.30404607430650377,"In Progress Or Failed"
+114,57,disaster_keyword_1,learning_rate,0.0000027750538070119425,"In Progress Or Failed"
+114,57,disaster_keyword_1,lr_scheduler_type,0,"In Progress Or Failed"
+114,57,disaster_keyword_1,num_epochs,4,"In Progress Or Failed"
+114,57,disaster_keyword_1,weight_decay,0.07288537251500042,"In Progress Or Failed"
+115,57,disaster_keyword_1,batch_size,2,"In Progress Or Failed"
+115,57,disaster_keyword_1,dropout_rate,0.10614184691074585,"In Progress Or Failed"
+115,57,disaster_keyword_1,learning_rate,0.0000359416282485976,"In Progress Or Failed"
+115,57,disaster_keyword_1,lr_scheduler_type,2,"In Progress Or Failed"
+115,57,disaster_keyword_1,num_epochs,5,"In Progress Or Failed"
+115,57,disaster_keyword_1,weight_decay,0.026946226821988065,"In Progress Or Failed"
+116,57,disaster_keyword_1,batch_size,1,"In Progress Or Failed"
+116,57,disaster_keyword_1,dropout_rate,0.11774280134417521,"In Progress Or Failed"
+116,57,disaster_keyword_1,learning_rate,0.00006590138450679002,"In Progress Or Failed"
+116,57,disaster_keyword_1,lr_scheduler_type,3,"In Progress Or Failed"
+116,57,disaster_keyword_1,num_epochs,8,"In Progress Or Failed"
+116,57,disaster_keyword_1,weight_decay,0.0063181569216532955,"In Progress Or Failed"
+117,57,disaster_keyword_1,batch_size,0,"In Progress Or Failed"
+117,57,disaster_keyword_1,dropout_rate,0.45450010833677057,"In Progress Or Failed"
+117,57,disaster_keyword_1,learning_rate,0.00001184455440798616,"In Progress Or Failed"
+117,57,disaster_keyword_1,lr_scheduler_type,0,"In Progress Or Failed"
+117,57,disaster_keyword_1,num_epochs,8,"In Progress Or Failed"
+117,57,disaster_keyword_1,weight_decay,0.0629535384865708,"In Progress Or Failed"
+118,57,disaster_keyword_1,batch_size,0,"In Progress Or Failed"
+118,57,disaster_keyword_1,dropout_rate,0.22903666467012368,"In Progress Or Failed"
+118,57,disaster_keyword_1,learning_rate,0.000004030737095928467,"In Progress Or Failed"
+118,57,disaster_keyword_1,lr_scheduler_type,1,"In Progress Or Failed"
+118,57,disaster_keyword_1,num_epochs,5,"In Progress Or Failed"
+118,57,disaster_keyword_1,weight_decay,0.08479087156086262,"In Progress Or Failed"
+119,57,disaster_keyword_1,batch_size,0,"In Progress Or Failed"
+119,57,disaster_keyword_1,dropout_rate,0.38360955914122885,"In Progress Or Failed"
+119,57,disaster_keyword_1,learning_rate,0.00000949565683950827,"In Progress Or Failed"
+119,57,disaster_keyword_1,lr_scheduler_type,2,"In Progress Or Failed"
+119,57,disaster_keyword_1,num_epochs,5,"In Progress Or Failed"
+119,57,disaster_keyword_1,weight_decay,0.043417153465017046,"In Progress Or Failed"
+120,57,disaster_keyword_1,batch_size,1,"In Progress Or Failed"
+120,57,disaster_keyword_1,dropout_rate,0.1818693823542703,"In Progress Or Failed"
+120,57,disaster_keyword_1,learning_rate,0.000011210789971611976,"In Progress Or Failed"
+120,57,disaster_keyword_1,lr_scheduler_type,2,"In Progress Or Failed"
+120,57,disaster_keyword_1,num_epochs,9,"In Progress Or Failed"
+120,57,disaster_keyword_1,weight_decay,0.01869432479278246,"In Progress Or Failed"
+121,57,disaster_keyword_1,batch_size,0,"In Progress Or Failed"
+121,57,disaster_keyword_1,dropout_rate,0.4283571093979516,"In Progress Or Failed"
+121,57,disaster_keyword_1,learning_rate,0.00000822664489932161,"In Progress Or Failed"
+121,57,disaster_keyword_1,lr_scheduler_type,0,"In Progress Or Failed"
+121,57,disaster_keyword_1,num_epochs,5,"In Progress Or Failed"
+121,57,disaster_keyword_1,weight_decay,0.08409093794304168,"In Progress Or Failed"
+122,57,disaster_keyword_1,batch_size,2,"In Progress Or Failed"
+122,57,disaster_keyword_1,dropout_rate,0.1652770918236881,"In Progress Or Failed"
+122,57,disaster_keyword_1,learning_rate,0.00003719216432853961,"In Progress Or Failed"
+122,57,disaster_keyword_1,lr_scheduler_type,2,"In Progress Or Failed"
+122,57,disaster_keyword_1,num_epochs,5,"In Progress Or Failed"
+122,57,disaster_keyword_1,weight_decay,0.00510710959389995,"In Progress Or Failed"
+123,68,disaster_keyword_2,batch_size,1,0.45459795292524596
+123,68,disaster_keyword_2,dropout_rate,0.2744216448796635,0.45459795292524596
+123,68,disaster_keyword_2,learning_rate,0.000018605615657813198,0.45459795292524596
+123,68,disaster_keyword_2,lr_scheduler_type,3,0.45459795292524596
+123,68,disaster_keyword_2,num_epochs,8,0.45459795292524596
+123,68,disaster_keyword_2,weight_decay,0.09437491299258571,0.45459795292524596
+124,68,disaster_keyword_2,batch_size,2,"In Progress Or Failed"
+124,68,disaster_keyword_2,dropout_rate,0.38857823655920753,"In Progress Or Failed"
+124,68,disaster_keyword_2,learning_rate,0.0000018773819670334042,"In Progress Or Failed"
+124,68,disaster_keyword_2,lr_scheduler_type,1,"In Progress Or Failed"
+124,68,disaster_keyword_2,num_epochs,4,"In Progress Or Failed"
+124,68,disaster_keyword_2,weight_decay,0.08053901667023158,"In Progress Or Failed"
+125,68,disaster_keyword_2,batch_size,1,"In Progress Or Failed"
+125,68,disaster_keyword_2,dropout_rate,0.3074984709803156,"In Progress Or Failed"
+125,68,disaster_keyword_2,learning_rate,0.0000023746961424733628,"In Progress Or Failed"
+125,68,disaster_keyword_2,lr_scheduler_type,2,"In Progress Or Failed"
+125,68,disaster_keyword_2,num_epochs,8,"In Progress Or Failed"
+125,68,disaster_keyword_2,weight_decay,0.011445864039610433,"In Progress Or Failed"
+126,68,disaster_keyword_2,batch_size,2,"In Progress Or Failed"
+126,68,disaster_keyword_2,dropout_rate,0.21486489306730072,"In Progress Or Failed"
+126,68,disaster_keyword_2,learning_rate,0.0000010824760040274955,"In Progress Or Failed"
+126,68,disaster_keyword_2,lr_scheduler_type,2,"In Progress Or Failed"
+126,68,disaster_keyword_2,num_epochs,9,"In Progress Or Failed"
+126,68,disaster_keyword_2,weight_decay,0.025282596343835687,"In Progress Or Failed"
+127,68,disaster_keyword_2,batch_size,1,0.4709828709672409
+127,68,disaster_keyword_2,dropout_rate,0.2726866751406598,0.4709828709672409
+127,68,disaster_keyword_2,learning_rate,0.00001191301293817322,0.4709828709672409
+127,68,disaster_keyword_2,lr_scheduler_type,2,0.4709828709672409
+127,68,disaster_keyword_2,num_epochs,9,0.4709828709672409
+127,68,disaster_keyword_2,weight_decay,0.09836930179151158,0.4709828709672409
+128,68,disaster_keyword_2,batch_size,2,0.4690113145995499
+128,68,disaster_keyword_2,dropout_rate,0.2853672001823312,0.4690113145995499
+128,68,disaster_keyword_2,learning_rate,0.000021172167849237476,0.4690113145995499
+128,68,disaster_keyword_2,lr_scheduler_type,1,0.4690113145995499
+128,68,disaster_keyword_2,num_epochs,7,0.4690113145995499
+128,68,disaster_keyword_2,weight_decay,0.021137393278774987,0.4690113145995499
+129,68,disaster_keyword_2,batch_size,1,0.4832173520795532
+129,68,disaster_keyword_2,dropout_rate,0.35688150444081,0.4832173520795532
+129,68,disaster_keyword_2,learning_rate,0.000005391127196938243,0.4832173520795532
+129,68,disaster_keyword_2,lr_scheduler_type,1,0.4832173520795532
+129,68,disaster_keyword_2,num_epochs,3,0.4832173520795532
+129,68,disaster_keyword_2,weight_decay,0.05312884742058682,0.4832173520795532
+130,68,disaster_keyword_2,batch_size,0,0.45856614974989435
+130,68,disaster_keyword_2,dropout_rate,0.36870053879911047,0.45856614974989435
+130,68,disaster_keyword_2,learning_rate,0.00005687622730073912,0.45856614974989435
+130,68,disaster_keyword_2,lr_scheduler_type,3,0.45856614974989435
+130,68,disaster_keyword_2,num_epochs,5,0.45856614974989435
+130,68,disaster_keyword_2,weight_decay,0.08500349046174295,0.45856614974989435
+131,68,disaster_keyword_2,batch_size,1,0.4670534880618914
+131,68,disaster_keyword_2,dropout_rate,0.2857959917301279,0.4670534880618914
+131,68,disaster_keyword_2,learning_rate,0.00007972455364361974,0.4670534880618914
+131,68,disaster_keyword_2,lr_scheduler_type,1,0.4670534880618914
+131,68,disaster_keyword_2,num_epochs,6,0.4670534880618914
+131,68,disaster_keyword_2,weight_decay,0.002376959926953204,0.4670534880618914
+132,68,disaster_keyword_2,batch_size,2,0.45372993508780757
+132,68,disaster_keyword_2,dropout_rate,0.32002658119006144,0.45372993508780757
+132,68,disaster_keyword_2,learning_rate,0.0000045737887971120295,0.45372993508780757
+132,68,disaster_keyword_2,lr_scheduler_type,1,0.45372993508780757
+132,68,disaster_keyword_2,num_epochs,5,0.45372993508780757
+132,68,disaster_keyword_2,weight_decay,0.0772004240519434,0.45372993508780757
+133,68,disaster_keyword_2,batch_size,1,0.4871229067166435
+133,68,disaster_keyword_2,dropout_rate,0.41643937141315923,0.4871229067166435
+133,68,disaster_keyword_2,learning_rate,0.0000029588279492190165,0.4871229067166435
+133,68,disaster_keyword_2,lr_scheduler_type,1,0.4871229067166435
+133,68,disaster_keyword_2,num_epochs,10,0.4871229067166435
+133,68,disaster_keyword_2,weight_decay,0.06779770877304225,0.4871229067166435
+134,68,disaster_keyword_2,batch_size,2,0.4723238280083607
+134,68,disaster_keyword_2,dropout_rate,0.36825758310747836,0.4723238280083607
+134,68,disaster_keyword_2,learning_rate,0.00002024267192746407,0.4723238280083607
+134,68,disaster_keyword_2,lr_scheduler_type,0,0.4723238280083607
+134,68,disaster_keyword_2,num_epochs,4,0.4723238280083607
+134,68,disaster_keyword_2,weight_decay,0.07921011335093638,0.4723238280083607
+135,68,disaster_keyword_2,batch_size,2,"In Progress Or Failed"
+135,68,disaster_keyword_2,dropout_rate,0.2935240546787087,"In Progress Or Failed"
+135,68,disaster_keyword_2,learning_rate,0.00007772454130028764,"In Progress Or Failed"
+135,68,disaster_keyword_2,lr_scheduler_type,1,"In Progress Or Failed"
+135,68,disaster_keyword_2,num_epochs,3,"In Progress Or Failed"
+135,68,disaster_keyword_2,weight_decay,0.028474980074686154,"In Progress Or Failed"
+136,68,disaster_keyword_2,batch_size,1,0.49241458878633426
+136,68,disaster_keyword_2,dropout_rate,0.2468455949166163,0.49241458878633426
+136,68,disaster_keyword_2,learning_rate,0.00002820367261185189,0.49241458878633426
+136,68,disaster_keyword_2,lr_scheduler_type,0,0.49241458878633426
+136,68,disaster_keyword_2,num_epochs,10,0.49241458878633426
+136,68,disaster_keyword_2,weight_decay,0.09852917619174761,0.49241458878633426
+137,68,disaster_keyword_2,batch_size,1,0.4822140720695058
+137,68,disaster_keyword_2,dropout_rate,0.1161933326556035,0.4822140720695058
+137,68,disaster_keyword_2,learning_rate,0.00007372154794443937,0.4822140720695058
+137,68,disaster_keyword_2,lr_scheduler_type,3,0.4822140720695058
+137,68,disaster_keyword_2,num_epochs,10,0.4822140720695058
+137,68,disaster_keyword_2,weight_decay,0.030237539541411375,0.4822140720695058
+138,68,disaster_keyword_2,batch_size,2,0.4528553356826602
+138,68,disaster_keyword_2,dropout_rate,0.1646604276292561,0.4528553356826602
+138,68,disaster_keyword_2,learning_rate,0.000011032599111300933,0.4528553356826602
+138,68,disaster_keyword_2,lr_scheduler_type,2,0.4528553356826602
+138,68,disaster_keyword_2,num_epochs,3,0.4528553356826602
+138,68,disaster_keyword_2,weight_decay,0.04098783979910242,0.4528553356826602
+140,68,disaster_keyword_2,batch_size,2,0.49323674642681864
+140,68,disaster_keyword_2,dropout_rate,0.38230934147263207,0.49323674642681864
+140,68,disaster_keyword_2,learning_rate,0.00001708711843960886,0.49323674642681864
+140,68,disaster_keyword_2,lr_scheduler_type,2,0.49323674642681864
+140,68,disaster_keyword_2,num_epochs,10,0.49323674642681864
+140,68,disaster_keyword_2,weight_decay,0.04374854746489152,0.49323674642681864
+141,68,disaster_keyword_2,batch_size,1,0.45716325521034107
+141,68,disaster_keyword_2,dropout_rate,0.27391850144772645,0.45716325521034107
+141,68,disaster_keyword_2,learning_rate,0.000011600073358122884,0.45716325521034107
+141,68,disaster_keyword_2,lr_scheduler_type,3,0.45716325521034107
+141,68,disaster_keyword_2,num_epochs,8,0.45716325521034107
+141,68,disaster_keyword_2,weight_decay,0.07625378231632489,0.45716325521034107
+142,68,disaster_keyword_2,batch_size,2,0.4682415519399249
+142,68,disaster_keyword_2,dropout_rate,0.42156194645209777,0.4682415519399249
+142,68,disaster_keyword_2,learning_rate,0.0000022904549184527582,0.4682415519399249
+142,68,disaster_keyword_2,lr_scheduler_type,3,0.4682415519399249
+142,68,disaster_keyword_2,num_epochs,4,0.4682415519399249
+142,68,disaster_keyword_2,weight_decay,0.022688175105303188,0.4682415519399249
+143,68,disaster_keyword_2,batch_size,0,0.4483300172621033
+143,68,disaster_keyword_2,dropout_rate,0.4963637345188152,0.4483300172621033
+143,68,disaster_keyword_2,learning_rate,0.000001388464177578798,0.4483300172621033
+143,68,disaster_keyword_2,lr_scheduler_type,0,0.4483300172621033
+143,68,disaster_keyword_2,num_epochs,10,0.4483300172621033
+143,68,disaster_keyword_2,weight_decay,0.059743504538102135,0.4483300172621033
+145,68,disaster_keyword_2,batch_size,1,"In Progress Or Failed"
+145,68,disaster_keyword_2,dropout_rate,0.4842638725362802,"In Progress Or Failed"
+145,68,disaster_keyword_2,learning_rate,0.0000016009967626541874,"In Progress Or Failed"
+145,68,disaster_keyword_2,lr_scheduler_type,1,"In Progress Or Failed"
+145,68,disaster_keyword_2,num_epochs,10,"In Progress Or Failed"
+145,68,disaster_keyword_2,weight_decay,0.05981566925684996,"In Progress Or Failed"
+146,68,disaster_keyword_2,batch_size,0,0.445653133865011
+146,68,disaster_keyword_2,dropout_rate,0.49413906990750167,0.445653133865011
+146,68,disaster_keyword_2,learning_rate,0.0000012486322212939487,0.445653133865011
+146,68,disaster_keyword_2,lr_scheduler_type,2,0.445653133865011
+146,68,disaster_keyword_2,num_epochs,10,0.445653133865011
+146,68,disaster_keyword_2,weight_decay,0.05927928002552378,0.445653133865011
+147,68,disaster_keyword_2,batch_size,0,0.46385361114528556
+147,68,disaster_keyword_2,dropout_rate,0.48678942439616807,0.46385361114528556
+147,68,disaster_keyword_2,learning_rate,0.0000010415623357091874,0.46385361114528556
+147,68,disaster_keyword_2,lr_scheduler_type,2,0.46385361114528556
+147,68,disaster_keyword_2,num_epochs,10,0.46385361114528556
+147,68,disaster_keyword_2,weight_decay,0.05805805975156244,0.46385361114528556
+148,68,disaster_keyword_2,batch_size,0,0.46161655413610525
+148,68,disaster_keyword_2,dropout_rate,0.4844077559643637,0.46161655413610525
+148,68,disaster_keyword_2,learning_rate,0.0000011878110548751125,0.46161655413610525
+148,68,disaster_keyword_2,lr_scheduler_type,2,0.46161655413610525
+148,68,disaster_keyword_2,num_epochs,10,0.46161655413610525
+148,68,disaster_keyword_2,weight_decay,0.05566917868641771,0.46161655413610525
+149,68,disaster_keyword_2,batch_size,0,0.4548272919771199
+149,68,disaster_keyword_2,dropout_rate,0.18381929037899292,0.4548272919771199
+149,68,disaster_keyword_2,learning_rate,0.000043904234919151554,0.4548272919771199
+149,68,disaster_keyword_2,lr_scheduler_type,0,0.4548272919771199
+149,68,disaster_keyword_2,num_epochs,10,0.4548272919771199
+149,68,disaster_keyword_2,weight_decay,0.05492506790381102,0.4548272919771199
+150,68,disaster_keyword_2,batch_size,0,0.46260972013568535
+150,68,disaster_keyword_2,dropout_rate,0.4920323879587804,0.46260972013568535
+150,68,disaster_keyword_2,learning_rate,0.0000010918426195221672,0.46260972013568535
+150,68,disaster_keyword_2,lr_scheduler_type,0,0.46260972013568535
+150,68,disaster_keyword_2,num_epochs,9,0.46260972013568535
+150,68,disaster_keyword_2,weight_decay,0.059243347335628534,0.46260972013568535
+153,68,disaster_keyword_2,batch_size,0,0.46386273487497187
+153,68,disaster_keyword_2,dropout_rate,0.21456872417019104,0.46386273487497187
+153,68,disaster_keyword_2,learning_rate,0.00003827834598991674,0.46386273487497187
+153,68,disaster_keyword_2,lr_scheduler_type,0,0.46386273487497187
+153,68,disaster_keyword_2,num_epochs,9,0.46386273487497187
+153,68,disaster_keyword_2,weight_decay,0.04291151297284789,0.46386273487497187
+155,68,disaster_keyword_2,batch_size,2,0.4674205025798015
+155,68,disaster_keyword_2,dropout_rate,0.20375957839348063,0.4674205025798015
+155,68,disaster_keyword_2,learning_rate,0.00003873924373359727,0.4674205025798015
+155,68,disaster_keyword_2,lr_scheduler_type,2,0.4674205025798015
+155,68,disaster_keyword_2,num_epochs,9,0.4674205025798015
+155,68,disaster_keyword_2,weight_decay,0.04297004215679079,0.4674205025798015
+156,68,disaster_keyword_2,batch_size,2,0.44759292694713665
+156,68,disaster_keyword_2,dropout_rate,0.2218792315632209,0.44759292694713665
+156,68,disaster_keyword_2,learning_rate,0.000039504241796081346,0.44759292694713665
+156,68,disaster_keyword_2,lr_scheduler_type,0,0.44759292694713665
+156,68,disaster_keyword_2,num_epochs,8,0.44759292694713665
+156,68,disaster_keyword_2,weight_decay,0.04301970059069325,0.44759292694713665
+157,68,disaster_keyword_2,batch_size,2,0.4475910544166253
+157,68,disaster_keyword_2,dropout_rate,0.21205748903940252,0.4475910544166253
+157,68,disaster_keyword_2,learning_rate,0.000037882949993822934,0.4475910544166253
+157,68,disaster_keyword_2,lr_scheduler_type,0,0.4475910544166253
+157,68,disaster_keyword_2,num_epochs,8,0.4475910544166253
+157,68,disaster_keyword_2,weight_decay,0.03901477449521255,0.4475910544166253
+158,68,disaster_keyword_2,batch_size,2,0.482749554556784
+158,68,disaster_keyword_2,dropout_rate,0.2235168959500275,0.482749554556784
+158,68,disaster_keyword_2,learning_rate,0.00003772708470267752,0.482749554556784
+158,68,disaster_keyword_2,lr_scheduler_type,2,0.482749554556784
+158,68,disaster_keyword_2,num_epochs,8,0.482749554556784
+158,68,disaster_keyword_2,weight_decay,0.040083505627491,0.482749554556784
+159,68,disaster_keyword_2,batch_size,1,"In Progress Or Failed"
+159,68,disaster_keyword_2,dropout_rate,0.4238985646329771,"In Progress Or Failed"
+159,68,disaster_keyword_2,learning_rate,0.00003689403899327891,"In Progress Or Failed"
+159,68,disaster_keyword_2,lr_scheduler_type,1,"In Progress Or Failed"
+159,68,disaster_keyword_2,num_epochs,9,"In Progress Or Failed"
+159,68,disaster_keyword_2,weight_decay,0.04001265337414721,"In Progress Or Failed"
+161,68,disaster_keyword_2,batch_size,1,"In Progress Or Failed"
+161,68,disaster_keyword_2,dropout_rate,0.41976130903762987,"In Progress Or Failed"
+161,68,disaster_keyword_2,learning_rate,0.000006005966192995681,"In Progress Or Failed"
+161,68,disaster_keyword_2,lr_scheduler_type,1,"In Progress Or Failed"
+161,68,disaster_keyword_2,num_epochs,9,"In Progress Or Failed"
+161,68,disaster_keyword_2,weight_decay,0.06868659487856232,"In Progress Or Failed"
+162,68,disaster_keyword_2,batch_size,1,"In Progress Or Failed"
+162,68,disaster_keyword_2,dropout_rate,0.4254042641326607,"In Progress Or Failed"
+162,68,disaster_keyword_2,learning_rate,0.000005868655052756497,"In Progress Or Failed"
+162,68,disaster_keyword_2,lr_scheduler_type,1,"In Progress Or Failed"
+162,68,disaster_keyword_2,num_epochs,9,"In Progress Or Failed"
+162,68,disaster_keyword_2,weight_decay,0.07066834854042711,"In Progress Or Failed"
+163,68,disaster_keyword_2,batch_size,1,"In Progress Or Failed"
+163,68,disaster_keyword_2,dropout_rate,0.44077551442797924,"In Progress Or Failed"
+163,68,disaster_keyword_2,learning_rate,0.000006266944587835224,"In Progress Or Failed"
+163,68,disaster_keyword_2,lr_scheduler_type,1,"In Progress Or Failed"
+163,68,disaster_keyword_2,num_epochs,9,"In Progress Or Failed"
+163,68,disaster_keyword_2,weight_decay,0.06702008780793729,"In Progress Or Failed"
+165,68,disaster_keyword_2,batch_size,1,"In Progress Or Failed"
+165,68,disaster_keyword_2,dropout_rate,0.4271263228571238,"In Progress Or Failed"
+165,68,disaster_keyword_2,learning_rate,0.000005501519302350636,"In Progress Or Failed"
+165,68,disaster_keyword_2,lr_scheduler_type,1,"In Progress Or Failed"
+165,68,disaster_keyword_2,num_epochs,9,"In Progress Or Failed"
+165,68,disaster_keyword_2,weight_decay,0.06539817180508231,"In Progress Or Failed"
+166,68,disaster_keyword_2,batch_size,1,"In Progress Or Failed"
+166,68,disaster_keyword_2,dropout_rate,0.4305193653817152,"In Progress Or Failed"
+166,68,disaster_keyword_2,learning_rate,0.000006318377802072861,"In Progress Or Failed"
+166,68,disaster_keyword_2,lr_scheduler_type,1,"In Progress Or Failed"
+166,68,disaster_keyword_2,num_epochs,7,"In Progress Or Failed"
+166,68,disaster_keyword_2,weight_decay,0.06830105969459913,"In Progress Or Failed"
+139,78,disaster_keyword_3,batch_size,1,0.2851890756302521
+139,78,disaster_keyword_3,dropout_rate,0.2512929041736618,0.2851890756302521
+139,78,disaster_keyword_3,learning_rate,0.00009551334455698078,0.2851890756302521
+139,78,disaster_keyword_3,lr_scheduler_type,3,0.2851890756302521
+139,78,disaster_keyword_3,num_epochs,4,0.2851890756302521
+139,78,disaster_keyword_3,weight_decay,0.015776653999282988,0.2851890756302521
+144,78,disaster_keyword_3,batch_size,0,"In Progress Or Failed"
+144,78,disaster_keyword_3,dropout_rate,0.4809779649727919,"In Progress Or Failed"
+144,78,disaster_keyword_3,learning_rate,0.000001175988604719292,"In Progress Or Failed"
+144,78,disaster_keyword_3,lr_scheduler_type,0,"In Progress Or Failed"
+144,78,disaster_keyword_3,num_epochs,7,"In Progress Or Failed"
+144,78,disaster_keyword_3,weight_decay,0.049930242151293436,"In Progress Or Failed"
+151,80,disaster_keyword_4,batch_size,1,"In Progress Or Failed"
+151,80,disaster_keyword_4,dropout_rate,0.1941337716752564,"In Progress Or Failed"
+151,80,disaster_keyword_4,learning_rate,0.0000015790842541454539,"In Progress Or Failed"
+151,80,disaster_keyword_4,lr_scheduler_type,1,"In Progress Or Failed"
+151,80,disaster_keyword_4,num_epochs,7,"In Progress Or Failed"
+151,80,disaster_keyword_4,weight_decay,0.07187802940523419,"In Progress Or Failed"
+152,80,disaster_keyword_4,batch_size,2,0.4427531943770965
+152,80,disaster_keyword_4,dropout_rate,0.23577059567264805,0.4427531943770965
+152,80,disaster_keyword_4,learning_rate,0.00007212410417588082,0.4427531943770965
+152,80,disaster_keyword_4,lr_scheduler_type,3,0.4427531943770965
+152,80,disaster_keyword_4,num_epochs,8,0.4427531943770965
+152,80,disaster_keyword_4,weight_decay,0.011580490324900517,0.4427531943770965
+154,80,disaster_keyword_4,batch_size,0,0.47162031895052287
+154,80,disaster_keyword_4,dropout_rate,0.14890088774911683,0.47162031895052287
+154,80,disaster_keyword_4,learning_rate,0.000017962169374524834,0.47162031895052287
+154,80,disaster_keyword_4,lr_scheduler_type,2,0.47162031895052287
+154,80,disaster_keyword_4,num_epochs,5,0.47162031895052287
+154,80,disaster_keyword_4,weight_decay,0.025766860357762558,0.47162031895052287
+160,80,disaster_keyword_4,batch_size,0,"In Progress Or Failed"
+160,80,disaster_keyword_4,dropout_rate,0.40465827973436685,"In Progress Or Failed"
+160,80,disaster_keyword_4,learning_rate,0.000014597079167377438,"In Progress Or Failed"
+160,80,disaster_keyword_4,lr_scheduler_type,3,"In Progress Or Failed"
+160,80,disaster_keyword_4,num_epochs,4,"In Progress Or Failed"
+160,80,disaster_keyword_4,weight_decay,0.05149993544152988,"In Progress Or Failed"
+164,82,disaster_keyword_5,batch_size,2,0.7863707542419434
+164,82,disaster_keyword_5,dropout_rate,0.4127993317062264,0.7863707542419434
+164,82,disaster_keyword_5,learning_rate,0.000013319847237734497,0.7863707542419434
+164,82,disaster_keyword_5,lr_scheduler_type,3,0.7863707542419434
+164,82,disaster_keyword_5,num_epochs,2,0.7863707542419434
+164,82,disaster_keyword_5,weight_decay,0.0987693951867427,0.7863707542419434
+167,82,disaster_keyword_5,batch_size,2,"In Progress Or Failed"
+167,82,disaster_keyword_5,dropout_rate,0.36923675216948415,"In Progress Or Failed"
+167,82,disaster_keyword_5,learning_rate,0.00005331080071315598,"In Progress Or Failed"
+167,82,disaster_keyword_5,lr_scheduler_type,3,"In Progress Or Failed"
+167,82,disaster_keyword_5,num_epochs,2,"In Progress Or Failed"
+167,82,disaster_keyword_5,weight_decay,0.03267621499669476,"In Progress Or Failed"
+168,83,disaster_keyword_6,batch_size,1,0.8217580318450928
+168,83,disaster_keyword_6,dropout_rate,0.2816781337509201,0.8217580318450928
+168,83,disaster_keyword_6,learning_rate,0.000010410486533283468,0.8217580318450928
+168,83,disaster_keyword_6,lr_scheduler_type,1,0.8217580318450928
+168,83,disaster_keyword_6,num_epochs,4,0.8217580318450928
+168,83,disaster_keyword_6,weight_decay,0.043733061847408994,0.8217580318450928
+169,83,disaster_keyword_6,batch_size,1,0.778190940618515
+169,83,disaster_keyword_6,dropout_rate,0.262849547430847,0.778190940618515
+169,83,disaster_keyword_6,learning_rate,0.0000013209622006843853,0.778190940618515
+169,83,disaster_keyword_6,lr_scheduler_type,3,0.778190940618515
+169,83,disaster_keyword_6,num_epochs,6,0.778190940618515
+169,83,disaster_keyword_6,weight_decay,0.07446843248396753,0.778190940618515
+170,83,disaster_keyword_6,batch_size,1,0.7807420194149017
+170,83,disaster_keyword_6,dropout_rate,0.38795188080285536,0.7807420194149017
+170,83,disaster_keyword_6,learning_rate,0.0000013273505792430495,0.7807420194149017
+170,83,disaster_keyword_6,lr_scheduler_type,0,0.7807420194149017
+170,83,disaster_keyword_6,num_epochs,9,0.7807420194149017
+170,83,disaster_keyword_6,weight_decay,0.07478589279791246,0.7807420194149017
+171,83,disaster_keyword_6,batch_size,2,0.686549186706543
+171,83,disaster_keyword_6,dropout_rate,0.47989092872579386,0.686549186706543
+171,83,disaster_keyword_6,learning_rate,0.0000014259720444926981,0.686549186706543
+171,83,disaster_keyword_6,lr_scheduler_type,2,0.686549186706543
+171,83,disaster_keyword_6,num_epochs,6,0.686549186706543
+171,83,disaster_keyword_6,weight_decay,0.055219806713002764,0.686549186706543
+172,83,disaster_keyword_6,batch_size,0,0.8226610422134399
+172,83,disaster_keyword_6,dropout_rate,0.33008216800187484,0.8226610422134399
+172,83,disaster_keyword_6,learning_rate,0.000010279678882913196,0.8226610422134399
+172,83,disaster_keyword_6,lr_scheduler_type,2,0.8226610422134399
+172,83,disaster_keyword_6,num_epochs,7,0.8226610422134399
+172,83,disaster_keyword_6,weight_decay,0.021631720966132806,0.8226610422134399
+173,83,disaster_keyword_6,batch_size,0,"In Progress Or Failed"
+173,83,disaster_keyword_6,dropout_rate,0.275069378744793,"In Progress Or Failed"
+173,83,disaster_keyword_6,learning_rate,0.0000016628907534914233,"In Progress Or Failed"
+173,83,disaster_keyword_6,lr_scheduler_type,2,"In Progress Or Failed"
+173,83,disaster_keyword_6,num_epochs,9,"In Progress Or Failed"
+173,83,disaster_keyword_6,weight_decay,0.09429262671806765,"In Progress Or Failed"
+174,83,disaster_keyword_6,batch_size,2,"In Progress Or Failed"
+174,83,disaster_keyword_6,dropout_rate,0.42362935015188696,"In Progress Or Failed"
+174,83,disaster_keyword_6,learning_rate,0.0000036995459920182018,"In Progress Or Failed"
+174,83,disaster_keyword_6,lr_scheduler_type,0,"In Progress Or Failed"
+174,83,disaster_keyword_6,num_epochs,6,"In Progress Or Failed"
+174,83,disaster_keyword_6,weight_decay,0.03592882071395675,"In Progress Or Failed"
+175,83,disaster_keyword_6,batch_size,0,"In Progress Or Failed"
+175,83,disaster_keyword_6,dropout_rate,0.2174046621491899,"In Progress Or Failed"
+175,83,disaster_keyword_6,learning_rate,0.00003247337104599421,"In Progress Or Failed"
+175,83,disaster_keyword_6,lr_scheduler_type,1,"In Progress Or Failed"
+175,83,disaster_keyword_6,num_epochs,8,"In Progress Or Failed"
+175,83,disaster_keyword_6,weight_decay,0.06905657698543793,"In Progress Or Failed"
+176,83,disaster_keyword_6,batch_size,0,"In Progress Or Failed"
+176,83,disaster_keyword_6,dropout_rate,0.4237487738460345,"In Progress Or Failed"
+176,83,disaster_keyword_6,learning_rate,0.000010141173693649038,"In Progress Or Failed"
+176,83,disaster_keyword_6,lr_scheduler_type,2,"In Progress Or Failed"
+176,83,disaster_keyword_6,num_epochs,8,"In Progress Or Failed"
+176,83,disaster_keyword_6,weight_decay,0.0841699685774646,"In Progress Or Failed"
+177,83,disaster_keyword_6,batch_size,2,0.8133833706378937
+177,83,disaster_keyword_6,dropout_rate,0.18637837510390265,0.8133833706378937
+177,83,disaster_keyword_6,learning_rate,0.000002951958095195716,0.8133833706378937
+177,83,disaster_keyword_6,lr_scheduler_type,2,0.8133833706378937
+177,83,disaster_keyword_6,num_epochs,7,0.8133833706378937
+177,83,disaster_keyword_6,weight_decay,0.06249693498625447,0.8133833706378937
+178,83,disaster_keyword_6,batch_size,2,0.7700904607772827
+178,83,disaster_keyword_6,dropout_rate,0.3304520912611848,0.7700904607772827
+178,83,disaster_keyword_6,learning_rate,0.00004956058338143537,0.7700904607772827
+178,83,disaster_keyword_6,lr_scheduler_type,3,0.7700904607772827
+178,83,disaster_keyword_6,num_epochs,6,0.7700904607772827
+178,83,disaster_keyword_6,weight_decay,0.07430094725739865,0.7700904607772827
+179,83,disaster_keyword_6,batch_size,0,0.7902722358703613
+179,83,disaster_keyword_6,dropout_rate,0.39598976151340104,0.7902722358703613
+179,83,disaster_keyword_6,learning_rate,0.000004542575805621454,0.7902722358703613
+179,83,disaster_keyword_6,lr_scheduler_type,1,0.7902722358703613
+179,83,disaster_keyword_6,num_epochs,3,0.7902722358703613
+179,83,disaster_keyword_6,weight_decay,0.06379757091268562,0.7902722358703613
+180,83,disaster_keyword_6,batch_size,1,"In Progress Or Failed"
+180,83,disaster_keyword_6,dropout_rate,0.24793629551421947,"In Progress Or Failed"
+180,83,disaster_keyword_6,learning_rate,0.000003800644443239797,"In Progress Or Failed"
+180,83,disaster_keyword_6,lr_scheduler_type,0,"In Progress Or Failed"
+180,83,disaster_keyword_6,num_epochs,5,"In Progress Or Failed"
+180,83,disaster_keyword_6,weight_decay,0.042141798587408644,"In Progress Or Failed"
+181,83,disaster_keyword_6,batch_size,1,"In Progress Or Failed"
+181,83,disaster_keyword_6,dropout_rate,0.24979855734911038,"In Progress Or Failed"
+181,83,disaster_keyword_6,learning_rate,0.0000026952695180223185,"In Progress Or Failed"
+181,83,disaster_keyword_6,lr_scheduler_type,3,"In Progress Or Failed"
+181,83,disaster_keyword_6,num_epochs,7,"In Progress Or Failed"
+181,83,disaster_keyword_6,weight_decay,0.028553081745645748,"In Progress Or Failed"
+182,83,disaster_keyword_6,batch_size,2,"In Progress Or Failed"
+182,83,disaster_keyword_6,dropout_rate,0.20337997601308647,"In Progress Or Failed"
+182,83,disaster_keyword_6,learning_rate,0.00001769126433129998,"In Progress Or Failed"
+182,83,disaster_keyword_6,lr_scheduler_type,0,"In Progress Or Failed"
+182,83,disaster_keyword_6,num_epochs,9,"In Progress Or Failed"
+182,83,disaster_keyword_6,weight_decay,0.021912523758844307,"In Progress Or Failed"
+183,83,disaster_keyword_6,batch_size,1,"In Progress Or Failed"
+183,83,disaster_keyword_6,dropout_rate,0.3435259492426664,"In Progress Or Failed"
+183,83,disaster_keyword_6,learning_rate,0.000014668970188826657,"In Progress Or Failed"
+183,83,disaster_keyword_6,lr_scheduler_type,0,"In Progress Or Failed"
+183,83,disaster_keyword_6,num_epochs,6,"In Progress Or Failed"
+183,83,disaster_keyword_6,weight_decay,0.030329870337455756,"In Progress Or Failed"
+184,83,disaster_keyword_6,batch_size,2,"In Progress Or Failed"
+184,83,disaster_keyword_6,dropout_rate,0.28112008134318023,"In Progress Or Failed"
+184,83,disaster_keyword_6,learning_rate,0.000005143895818129397,"In Progress Or Failed"
+184,83,disaster_keyword_6,lr_scheduler_type,0,"In Progress Or Failed"
+184,83,disaster_keyword_6,num_epochs,5,"In Progress Or Failed"
+184,83,disaster_keyword_6,weight_decay,0.05551460702177377,"In Progress Or Failed"
+185,83,disaster_keyword_6,batch_size,2,"In Progress Or Failed"
+185,83,disaster_keyword_6,dropout_rate,0.4835189026194724,"In Progress Or Failed"
+185,83,disaster_keyword_6,learning_rate,0.000014645587292744567,"In Progress Or Failed"
+185,83,disaster_keyword_6,lr_scheduler_type,2,"In Progress Or Failed"
+185,83,disaster_keyword_6,num_epochs,9,"In Progress Or Failed"
+185,83,disaster_keyword_6,weight_decay,0.01638383162167627,"In Progress Or Failed"
+186,83,disaster_keyword_6,batch_size,0,"In Progress Or Failed"
+186,83,disaster_keyword_6,dropout_rate,0.3867409869249564,"In Progress Or Failed"
+186,83,disaster_keyword_6,learning_rate,0.000030590041196726244,"In Progress Or Failed"
+186,83,disaster_keyword_6,lr_scheduler_type,3,"In Progress Or Failed"
+186,83,disaster_keyword_6,num_epochs,4,"In Progress Or Failed"
+186,83,disaster_keyword_6,weight_decay,0.053638701010226324,"In Progress Or Failed"
+187,83,disaster_keyword_6,batch_size,2,"In Progress Or Failed"
+187,83,disaster_keyword_6,dropout_rate,0.3487421003393437,"In Progress Or Failed"
+187,83,disaster_keyword_6,learning_rate,0.000024783988031740526,"In Progress Or Failed"
+187,83,disaster_keyword_6,lr_scheduler_type,0,"In Progress Or Failed"
+187,83,disaster_keyword_6,num_epochs,8,"In Progress Or Failed"
+187,83,disaster_keyword_6,weight_decay,0.05669514633761812,"In Progress Or Failed"
+188,83,disaster_keyword_6,batch_size,0,"In Progress Or Failed"
+188,83,disaster_keyword_6,dropout_rate,0.20886650117601208,"In Progress Or Failed"
+188,83,disaster_keyword_6,learning_rate,0.000047053996022465614,"In Progress Or Failed"
+188,83,disaster_keyword_6,lr_scheduler_type,1,"In Progress Or Failed"
+188,83,disaster_keyword_6,num_epochs,10,"In Progress Or Failed"
+188,83,disaster_keyword_6,weight_decay,0.004557604602964382,"In Progress Or Failed"
+189,83,disaster_keyword_6,batch_size,1,0.7090844810009003
+189,83,disaster_keyword_6,dropout_rate,0.40128065169393434,0.7090844810009003
+189,83,disaster_keyword_6,learning_rate,0.0000016000231524429837,0.7090844810009003
+189,83,disaster_keyword_6,lr_scheduler_type,3,0.7090844810009003
+189,83,disaster_keyword_6,num_epochs,3,0.7090844810009003
+189,83,disaster_keyword_6,weight_decay,0.03663152076156106,0.7090844810009003
+190,83,disaster_keyword_6,batch_size,1,0.8558858633041382
+190,83,disaster_keyword_6,dropout_rate,0.17564799000190986,0.8558858633041382
+190,83,disaster_keyword_6,learning_rate,0.00004292663985359787,0.8558858633041382
+190,83,disaster_keyword_6,lr_scheduler_type,0,0.8558858633041382
+190,83,disaster_keyword_6,num_epochs,9,0.8558858633041382
+190,83,disaster_keyword_6,weight_decay,0.06862765868174897,0.8558858633041382
+191,83,disaster_keyword_6,batch_size,2,"In Progress Or Failed"
+191,83,disaster_keyword_6,dropout_rate,0.4296391543725995,"In Progress Or Failed"
+191,83,disaster_keyword_6,learning_rate,0.00009110462594762964,"In Progress Or Failed"
+191,83,disaster_keyword_6,lr_scheduler_type,2,"In Progress Or Failed"
+191,83,disaster_keyword_6,num_epochs,7,"In Progress Or Failed"
+191,83,disaster_keyword_6,weight_decay,0.046763985284118105,"In Progress Or Failed"
+192,83,disaster_keyword_6,batch_size,1,"In Progress Or Failed"
+192,83,disaster_keyword_6,dropout_rate,0.30162486383144704,"In Progress Or Failed"
+192,83,disaster_keyword_6,learning_rate,0.000020337601674077265,"In Progress Or Failed"
+192,83,disaster_keyword_6,lr_scheduler_type,3,"In Progress Or Failed"
+192,83,disaster_keyword_6,num_epochs,8,"In Progress Or Failed"
+192,83,disaster_keyword_6,weight_decay,0.005934028395007541,"In Progress Or Failed"
+193,83,disaster_keyword_6,batch_size,0,0.8430994153022766
+193,83,disaster_keyword_6,dropout_rate,0.19340942500213895,0.8430994153022766
+193,83,disaster_keyword_6,learning_rate,0.000007683985417982437,0.8430994153022766
+193,83,disaster_keyword_6,lr_scheduler_type,0,0.8430994153022766
+193,83,disaster_keyword_6,num_epochs,8,0.8430994153022766
+193,83,disaster_keyword_6,weight_decay,0.09327663672397679,0.8430994153022766
+194,83,disaster_keyword_6,batch_size,0,0.8083029687404633
+194,83,disaster_keyword_6,dropout_rate,0.2558550671610423,0.8083029687404633
+194,83,disaster_keyword_6,learning_rate,0.0000021482450637215964,0.8083029687404633
+194,83,disaster_keyword_6,lr_scheduler_type,1,0.8083029687404633
+194,83,disaster_keyword_6,num_epochs,7,0.8083029687404633
+194,83,disaster_keyword_6,weight_decay,0.022751525779154846,0.8083029687404633
+195,83,disaster_keyword_6,batch_size,1,"In Progress Or Failed"
+195,83,disaster_keyword_6,dropout_rate,0.40442366752049896,"In Progress Or Failed"
+195,83,disaster_keyword_6,learning_rate,0.00004038175782357244,"In Progress Or Failed"
+195,83,disaster_keyword_6,lr_scheduler_type,1,"In Progress Or Failed"
+195,83,disaster_keyword_6,num_epochs,9,"In Progress Or Failed"
+195,83,disaster_keyword_6,weight_decay,0.0923395957636198,"In Progress Or Failed"
+196,83,disaster_keyword_6,batch_size,2,0.8008710443973541
+196,83,disaster_keyword_6,dropout_rate,0.1551681394301923,0.8008710443973541
+196,83,disaster_keyword_6,learning_rate,0.0000010907557221213543,0.8008710443973541
+196,83,disaster_keyword_6,lr_scheduler_type,2,0.8008710443973541
+196,83,disaster_keyword_6,num_epochs,10,0.8008710443973541
+196,83,disaster_keyword_6,weight_decay,0.04658928851031885,0.8008710443973541
+197,83,disaster_keyword_6,batch_size,2,0.7999898493289948
+197,83,disaster_keyword_6,dropout_rate,0.18832907340721997,0.7999898493289948
+197,83,disaster_keyword_6,learning_rate,0.0000034633283389979006,0.7999898493289948
+197,83,disaster_keyword_6,lr_scheduler_type,1,0.7999898493289948
+197,83,disaster_keyword_6,num_epochs,4,0.7999898493289948
+197,83,disaster_keyword_6,weight_decay,0.04582285874883235,0.7999898493289948
+198,83,disaster_keyword_6,batch_size,1,0.8439733982086182
+198,83,disaster_keyword_6,dropout_rate,0.11881863765264687,0.8439733982086182
+198,83,disaster_keyword_6,learning_rate,0.00006972721515978957,0.8439733982086182
+198,83,disaster_keyword_6,lr_scheduler_type,1,0.8439733982086182
+198,83,disaster_keyword_6,num_epochs,8,0.8439733982086182
+198,83,disaster_keyword_6,weight_decay,0.047319965337410175,0.8439733982086182
+199,83,disaster_keyword_6,batch_size,0,0.7885528206825256
+199,83,disaster_keyword_6,dropout_rate,0.468391368407609,0.7885528206825256
+199,83,disaster_keyword_6,learning_rate,0.000011820708836832877,0.7885528206825256
+199,83,disaster_keyword_6,lr_scheduler_type,1,0.7885528206825256
+199,83,disaster_keyword_6,num_epochs,8,0.7885528206825256
+199,83,disaster_keyword_6,weight_decay,0.06557875637330027,0.7885528206825256
+200,83,disaster_keyword_6,batch_size,0,0.8078967034816742
+200,83,disaster_keyword_6,dropout_rate,0.4595415381569511,0.8078967034816742
+200,83,disaster_keyword_6,learning_rate,0.000020915184839191484,0.8078967034816742
+200,83,disaster_keyword_6,lr_scheduler_type,2,0.8078967034816742
+200,83,disaster_keyword_6,num_epochs,10,0.8078967034816742
+200,83,disaster_keyword_6,weight_decay,0.007268578132476434,0.8078967034816742
+201,83,disaster_keyword_6,batch_size,0,"In Progress Or Failed"
+201,83,disaster_keyword_6,dropout_rate,0.11416146783890199,"In Progress Or Failed"
+201,83,disaster_keyword_6,learning_rate,0.00003953157403890774,"In Progress Or Failed"
+201,83,disaster_keyword_6,lr_scheduler_type,0,"In Progress Or Failed"
+201,83,disaster_keyword_6,num_epochs,10,"In Progress Or Failed"
+201,83,disaster_keyword_6,weight_decay,0.008151731010882027,"In Progress Or Failed"
+202,83,disaster_keyword_6,batch_size,1,0.6273670494556427
+202,83,disaster_keyword_6,dropout_rate,0.11863099287216561,0.6273670494556427
+202,83,disaster_keyword_6,learning_rate,0.00009735476675458752,0.6273670494556427
+202,83,disaster_keyword_6,lr_scheduler_type,0,0.6273670494556427
+202,83,disaster_keyword_6,num_epochs,10,0.6273670494556427
+202,83,disaster_keyword_6,weight_decay,0.09766851458363285,0.6273670494556427
+203,83,disaster_keyword_6,batch_size,1,0.6157956123352051
+203,83,disaster_keyword_6,dropout_rate,0.10381097108071544,0.6157956123352051
+203,83,disaster_keyword_6,learning_rate,0.00008998152186733024,0.6157956123352051
+203,83,disaster_keyword_6,lr_scheduler_type,0,0.6157956123352051
+203,83,disaster_keyword_6,num_epochs,9,0.6157956123352051
+203,83,disaster_keyword_6,weight_decay,0.09227624797251477,0.6157956123352051
+204,83,disaster_keyword_6,batch_size,1,0.5908170938491821
+204,83,disaster_keyword_6,dropout_rate,0.11183214431306132,0.5908170938491821
+204,83,disaster_keyword_6,learning_rate,0.00008563651476765208,0.5908170938491821
+204,83,disaster_keyword_6,lr_scheduler_type,0,0.5908170938491821
+204,83,disaster_keyword_6,num_epochs,9,0.5908170938491821
+204,83,disaster_keyword_6,weight_decay,0.09167650689288942,0.5908170938491821
+205,83,disaster_keyword_6,batch_size,1,0.5767684876918793
+205,83,disaster_keyword_6,dropout_rate,0.10028863551136591,0.5767684876918793
+205,83,disaster_keyword_6,learning_rate,0.00009956569504976849,0.5767684876918793
+205,83,disaster_keyword_6,lr_scheduler_type,0,0.5767684876918793
+205,83,disaster_keyword_6,num_epochs,10,0.5767684876918793
+205,83,disaster_keyword_6,weight_decay,0.0012213944119131431,0.5767684876918793
+206,83,disaster_keyword_6,batch_size,1,0.5944861471652985
+206,83,disaster_keyword_6,dropout_rate,0.10444030798468978,0.5944861471652985
+206,83,disaster_keyword_6,learning_rate,0.0000929626019525109,0.5944861471652985
+206,83,disaster_keyword_6,lr_scheduler_type,0,0.5944861471652985
+206,83,disaster_keyword_6,num_epochs,10,0.5944861471652985
+206,83,disaster_keyword_6,weight_decay,0.002756907497199708,0.5944861471652985
+207,83,disaster_keyword_6,batch_size,1,0.7796330749988556
+207,83,disaster_keyword_6,dropout_rate,0.10339350592848691,0.7796330749988556
+207,83,disaster_keyword_6,learning_rate,0.00002878485452417547,0.7796330749988556
+207,83,disaster_keyword_6,lr_scheduler_type,0,0.7796330749988556
+207,83,disaster_keyword_6,num_epochs,10,0.7796330749988556
+207,83,disaster_keyword_6,weight_decay,0.006416297762913817,0.7796330749988556
+208,83,disaster_keyword_6,batch_size,1,0.8278444111347198
+208,83,disaster_keyword_6,dropout_rate,0.10042599437125468,0.8278444111347198
+208,83,disaster_keyword_6,learning_rate,0.000036082600290559934,0.8278444111347198
+208,83,disaster_keyword_6,lr_scheduler_type,0,0.8278444111347198
+208,83,disaster_keyword_6,num_epochs,9,0.8278444111347198
+208,83,disaster_keyword_6,weight_decay,0.030426062569865648,0.8278444111347198
+209,83,disaster_keyword_6,batch_size,1,0.7775512635707855
+209,83,disaster_keyword_6,dropout_rate,0.23029010970661629,0.7775512635707855
+209,83,disaster_keyword_6,learning_rate,0.00003254916433587296,0.7775512635707855
+209,83,disaster_keyword_6,lr_scheduler_type,0,0.7775512635707855
+209,83,disaster_keyword_6,num_epochs,8,0.7775512635707855
+209,83,disaster_keyword_6,weight_decay,0.08247149415634976,0.7775512635707855
+210,83,disaster_keyword_6,batch_size,1,0.8450219333171844
+210,83,disaster_keyword_6,dropout_rate,0.23327663451306677,0.8450219333171844
+210,83,disaster_keyword_6,learning_rate,0.000035758046302369246,0.8450219333171844
+210,83,disaster_keyword_6,lr_scheduler_type,0,0.8450219333171844
+210,83,disaster_keyword_6,num_epochs,8,0.8450219333171844
+210,83,disaster_keyword_6,weight_decay,0.02924679681180301,0.8450219333171844
+211,83,disaster_keyword_6,batch_size,1,0.7567516267299652
+211,83,disaster_keyword_6,dropout_rate,0.21910427052146197,0.7567516267299652
+211,83,disaster_keyword_6,learning_rate,0.00003897101983046271,0.7567516267299652
+211,83,disaster_keyword_6,lr_scheduler_type,0,0.7567516267299652
+211,83,disaster_keyword_6,num_epochs,8,0.7567516267299652
+211,83,disaster_keyword_6,weight_decay,0.03326991750565629,0.7567516267299652
+212,83,disaster_keyword_6,batch_size,0,0.7458885312080383
+212,83,disaster_keyword_6,dropout_rate,0.20480387216087825,0.7458885312080383
+212,83,disaster_keyword_6,learning_rate,0.00003029827035798443,0.7458885312080383
+212,83,disaster_keyword_6,lr_scheduler_type,0,0.7458885312080383
+212,83,disaster_keyword_6,num_epochs,8,0.7458885312080383
+212,83,disaster_keyword_6,weight_decay,0.08201399875820903,0.7458885312080383
+213,83,disaster_keyword_6,batch_size,0,0.7530344128608704
+213,83,disaster_keyword_6,dropout_rate,0.21449353935961207,0.7530344128608704
+213,83,disaster_keyword_6,learning_rate,0.00003125050718122804,0.7530344128608704
+213,83,disaster_keyword_6,lr_scheduler_type,0,0.7530344128608704
+213,83,disaster_keyword_6,num_epochs,8,0.7530344128608704
+213,83,disaster_keyword_6,weight_decay,0.08381436877653306,0.7530344128608704
+214,83,disaster_keyword_6,batch_size,0,0.7903974652290344
+214,83,disaster_keyword_6,dropout_rate,0.16768435984404362,0.7903974652290344
+214,83,disaster_keyword_6,learning_rate,0.000006481229558933722,0.7903974652290344
+214,83,disaster_keyword_6,lr_scheduler_type,0,0.7903974652290344
+214,83,disaster_keyword_6,num_epochs,8,0.7903974652290344
+214,83,disaster_keyword_6,weight_decay,0.03589647527695969,0.7903974652290344
+215,83,disaster_keyword_6,batch_size,1,0.8464506566524506
+215,83,disaster_keyword_6,dropout_rate,0.16173530320759508,0.8464506566524506
+215,83,disaster_keyword_6,learning_rate,0.000048719125739906076,0.8464506566524506
+215,83,disaster_keyword_6,lr_scheduler_type,1,0.8464506566524506
+215,83,disaster_keyword_6,num_epochs,8,0.8464506566524506
+215,83,disaster_keyword_6,weight_decay,0.03260091151492232,0.8464506566524506
+216,83,disaster_keyword_6,batch_size,1,0.7900888919830322
+216,83,disaster_keyword_6,dropout_rate,0.1530710123352977,0.7900888919830322
+216,83,disaster_keyword_6,learning_rate,0.000019987595914886966,0.7900888919830322
+216,83,disaster_keyword_6,lr_scheduler_type,1,0.7900888919830322
+216,83,disaster_keyword_6,num_epochs,9,0.7900888919830322
+216,83,disaster_keyword_6,weight_decay,0.02776237629004131,0.7900888919830322
+217,83,disaster_keyword_6,batch_size,1,0.8387845456600189
+217,83,disaster_keyword_6,dropout_rate,0.15637039267046923,0.8387845456600189
+217,83,disaster_keyword_6,learning_rate,0.000020440393465260947,0.8387845456600189
+217,83,disaster_keyword_6,lr_scheduler_type,1,0.8387845456600189
+217,83,disaster_keyword_6,num_epochs,8,0.8387845456600189
+217,83,disaster_keyword_6,weight_decay,0.05570389669382791,0.8387845456600189
+218,83,disaster_keyword_6,batch_size,1,0.7926144599914551
+218,83,disaster_keyword_6,dropout_rate,0.2253162753772589,0.7926144599914551
+218,83,disaster_keyword_6,learning_rate,0.00005752135041619165,0.7926144599914551
+218,83,disaster_keyword_6,lr_scheduler_type,1,0.7926144599914551
+218,83,disaster_keyword_6,num_epochs,8,0.7926144599914551
+218,83,disaster_keyword_6,weight_decay,0.05594104240633256,0.7926144599914551
+219,83,disaster_keyword_6,batch_size,1,0.7674825489521027
+219,83,disaster_keyword_6,dropout_rate,0.1552619350942632,0.7674825489521027
+219,83,disaster_keyword_6,learning_rate,0.000053202273090516106,0.7674825489521027
+219,83,disaster_keyword_6,lr_scheduler_type,1,0.7674825489521027
+219,83,disaster_keyword_6,num_epochs,7,0.7674825489521027
+219,83,disaster_keyword_6,weight_decay,0.0541128747657868,0.7674825489521027
+220,83,disaster_keyword_6,batch_size,1,"In Progress Or Failed"
+220,83,disaster_keyword_6,dropout_rate,0.15697706265624967,"In Progress Or Failed"
+220,83,disaster_keyword_6,learning_rate,0.0000587271066227643,"In Progress Or Failed"
+220,83,disaster_keyword_6,lr_scheduler_type,1,"In Progress Or Failed"
+220,83,disaster_keyword_6,num_epochs,7,"In Progress Or Failed"
+220,83,disaster_keyword_6,weight_decay,0.05417293134565346,"In Progress Or Failed"
+221,83,disaster_keyword_6,batch_size,1,0.8481617271900177
+221,83,disaster_keyword_6,dropout_rate,0.15553475797784694,0.8481617271900177
+221,83,disaster_keyword_6,learning_rate,0.0000187716279324703,0.8481617271900177
+221,83,disaster_keyword_6,lr_scheduler_type,1,0.8481617271900177
+221,83,disaster_keyword_6,num_epochs,5,0.8481617271900177
+221,83,disaster_keyword_6,weight_decay,0.015963201294028208,0.8481617271900177
+222,83,disaster_keyword_6,batch_size,1,0.8315723836421967
+222,83,disaster_keyword_6,dropout_rate,0.14306072653328486,0.8315723836421967
+222,83,disaster_keyword_6,learning_rate,0.00005903682390371131,0.8315723836421967
+222,83,disaster_keyword_6,lr_scheduler_type,1,0.8315723836421967
+222,83,disaster_keyword_6,num_epochs,7,0.8315723836421967
+222,83,disaster_keyword_6,weight_decay,0.037920221483209976,0.8315723836421967
+223,83,disaster_keyword_6,batch_size,1,0.7976433634757996
+223,83,disaster_keyword_6,dropout_rate,0.14239165345178362,0.7976433634757996
+223,83,disaster_keyword_6,learning_rate,0.00005904408661565012,0.7976433634757996
+223,83,disaster_keyword_6,lr_scheduler_type,1,0.7976433634757996
+223,83,disaster_keyword_6,num_epochs,7,0.7976433634757996
+223,83,disaster_keyword_6,weight_decay,0.03949359513890614,0.7976433634757996
+224,83,disaster_keyword_6,batch_size,1,0.7878246903419495
+224,83,disaster_keyword_6,dropout_rate,0.14204988910331778,0.7878246903419495
+224,83,disaster_keyword_6,learning_rate,0.0000625956701430933,0.7878246903419495
+224,83,disaster_keyword_6,lr_scheduler_type,1,0.7878246903419495
+224,83,disaster_keyword_6,num_epochs,7,0.7878246903419495
+224,83,disaster_keyword_6,weight_decay,0.03943552262962282,0.7878246903419495
+225,83,disaster_keyword_6,batch_size,1,0.8012445569038391
+225,83,disaster_keyword_6,dropout_rate,0.27975796404265346,0.8012445569038391
+225,83,disaster_keyword_6,learning_rate,0.00006085047361868845,0.8012445569038391
+225,83,disaster_keyword_6,lr_scheduler_type,1,0.8012445569038391
+225,83,disaster_keyword_6,num_epochs,7,0.8012445569038391
+225,83,disaster_keyword_6,weight_decay,0.04104388451625625,0.8012445569038391
+226,83,disaster_keyword_6,batch_size,1,0.6328811943531036
+226,83,disaster_keyword_6,dropout_rate,0.2847212155972156,0.6328811943531036
+226,83,disaster_keyword_6,learning_rate,0.00007407931054800945,0.6328811943531036
+226,83,disaster_keyword_6,lr_scheduler_type,3,0.6328811943531036
+226,83,disaster_keyword_6,num_epochs,6,0.6328811943531036
+226,83,disaster_keyword_6,weight_decay,0.015054991835079854,0.6328811943531036
+227,83,disaster_keyword_6,batch_size,1,"In Progress Or Failed"
+227,83,disaster_keyword_6,dropout_rate,0.27445733445574416,"In Progress Or Failed"
+227,83,disaster_keyword_6,learning_rate,0.00001363967933228692,"In Progress Or Failed"
+227,83,disaster_keyword_6,lr_scheduler_type,3,"In Progress Or Failed"
+227,83,disaster_keyword_6,num_epochs,5,"In Progress Or Failed"
+227,83,disaster_keyword_6,weight_decay,0.01319810940913193,"In Progress Or Failed"
+228,83,disaster_keyword_6,batch_size,1,"In Progress Or Failed"
+228,83,disaster_keyword_6,dropout_rate,0.2795381589720345,"In Progress Or Failed"
+228,83,disaster_keyword_6,learning_rate,0.000016730814946577385,"In Progress Or Failed"
+228,83,disaster_keyword_6,lr_scheduler_type,1,"In Progress Or Failed"
+228,83,disaster_keyword_6,num_epochs,5,"In Progress Or Failed"
+228,83,disaster_keyword_6,weight_decay,0.018809430430173805,"In Progress Or Failed"
+229,83,disaster_keyword_6,batch_size,1,"In Progress Or Failed"
+229,83,disaster_keyword_6,dropout_rate,0.2922823018976862,"In Progress Or Failed"
+229,83,disaster_keyword_6,learning_rate,0.00001488443982498887,"In Progress Or Failed"
+229,83,disaster_keyword_6,lr_scheduler_type,3,"In Progress Or Failed"
+229,83,disaster_keyword_6,num_epochs,5,"In Progress Or Failed"
+229,83,disaster_keyword_6,weight_decay,0.014678714877120858,"In Progress Or Failed"
+230,83,disaster_keyword_6,batch_size,2,"In Progress Or Failed"
+230,83,disaster_keyword_6,dropout_rate,0.25247622741983794,"In Progress Or Failed"
+230,83,disaster_keyword_6,learning_rate,0.000016178227060732124,"In Progress Or Failed"
+230,83,disaster_keyword_6,lr_scheduler_type,3,"In Progress Or Failed"
+230,83,disaster_keyword_6,num_epochs,5,"In Progress Or Failed"
+230,83,disaster_keyword_6,weight_decay,0.02359889435929625,"In Progress Or Failed"
+231,83,disaster_keyword_6,batch_size,2,"In Progress Or Failed"
+231,83,disaster_keyword_6,dropout_rate,0.2455071517550917,"In Progress Or Failed"
+231,83,disaster_keyword_6,learning_rate,0.000014507036591065964,"In Progress Or Failed"
+231,83,disaster_keyword_6,lr_scheduler_type,3,"In Progress Or Failed"
+231,83,disaster_keyword_6,num_epochs,5,"In Progress Or Failed"
+231,83,disaster_keyword_6,weight_decay,0.014342763446262133,"In Progress Or Failed"
+232,83,disaster_keyword_6,batch_size,1,"In Progress Or Failed"
+232,83,disaster_keyword_6,dropout_rate,0.17746934129361214,"In Progress Or Failed"
+232,83,disaster_keyword_6,learning_rate,0.000015405699214850908,"In Progress Or Failed"
+232,83,disaster_keyword_6,lr_scheduler_type,3,"In Progress Or Failed"
+232,83,disaster_keyword_6,num_epochs,4,"In Progress Or Failed"
+232,83,disaster_keyword_6,weight_decay,0.014722427947819463,"In Progress Or Failed"
+63,20,disaster_t,batch_size,1,0.6653346653346653
+63,20,disaster_t,dropout_rate,0.4952836469012202,0.6653346653346653
+63,20,disaster_t,learning_rate,0.00004635803591595479,0.6653346653346653
+63,20,disaster_t,lr_scheduler_type,0,0.6653346653346653
+63,20,disaster_t,num_epochs,1,0.6653346653346653
+63,20,disaster_t,weight_decay,0.008604497294692514,0.6653346653346653
+64,20,disaster_t,batch_size,1,0.7470534904805077
+64,20,disaster_t,dropout_rate,0.2422478320045136,0.7470534904805077
+64,20,disaster_t,learning_rate,0.0000031272104542918333,0.7470534904805077
+64,20,disaster_t,lr_scheduler_type,3,0.7470534904805077
+64,20,disaster_t,num_epochs,1,0.7470534904805077
+64,20,disaster_t,weight_decay,0.06981877097932154,0.7470534904805077
+65,20,disaster_t,batch_size,2,"In Progress Or Failed"
+65,20,disaster_t,dropout_rate,0.27695659135535694,"In Progress Or Failed"
+65,20,disaster_t,learning_rate,0.00002662003711047364,"In Progress Or Failed"
+65,20,disaster_t,lr_scheduler_type,1,"In Progress Or Failed"
+65,20,disaster_t,num_epochs,1,"In Progress Or Failed"
+65,20,disaster_t,weight_decay,0.07486451459617059,"In Progress Or Failed"
+66,20,disaster_t,batch_size,2,0.708113804004215
+66,20,disaster_t,dropout_rate,0.1323262662039756,0.708113804004215
+66,20,disaster_t,learning_rate,0.00007000794278327924,0.708113804004215
+66,20,disaster_t,lr_scheduler_type,3,0.708113804004215
+66,20,disaster_t,num_epochs,1,0.708113804004215
+66,20,disaster_t,weight_decay,0.004325710545532014,0.708113804004215
+67,20,disaster_t,batch_size,1,0.7597461468721668
+67,20,disaster_t,dropout_rate,0.38917972688455715,0.7597461468721668
+67,20,disaster_t,learning_rate,0.00001554303767194868,0.7597461468721668
+67,20,disaster_t,lr_scheduler_type,3,0.7597461468721668
+67,20,disaster_t,num_epochs,1,0.7597461468721668
+67,20,disaster_t,weight_decay,0.07535169813922292,0.7597461468721668
+68,20,disaster_t,batch_size,2,0.7531055900621119
+68,20,disaster_t,dropout_rate,0.4155873848222307,0.7531055900621119
+68,20,disaster_t,learning_rate,0.000023472710584393445,0.7531055900621119
+68,20,disaster_t,lr_scheduler_type,2,0.7531055900621119
+68,20,disaster_t,num_epochs,1,0.7531055900621119
+68,20,disaster_t,weight_decay,0.013048902081629787,0.7531055900621119
+69,20,disaster_t,batch_size,1,0.7423935091277891
+69,20,disaster_t,dropout_rate,0.19061188697314752,0.7423935091277891
+69,20,disaster_t,learning_rate,0.000022187473373224316,0.7423935091277891
+69,20,disaster_t,lr_scheduler_type,0,0.7423935091277891
+69,20,disaster_t,num_epochs,1,0.7423935091277891
+69,20,disaster_t,weight_decay,0.008867020835836471,0.7423935091277891
+59,18,disaster_test,batch_size,0,0.7457286432160803
+59,18,disaster_test,dropout_rate,0.3105198226845044,0.7457286432160803
+59,18,disaster_test,learning_rate,0.000017033180600593363,0.7457286432160803
+59,18,disaster_test,lr_scheduler_type,1,0.7457286432160803
+59,18,disaster_test,num_epochs,2,0.7457286432160803
+59,18,disaster_test,weight_decay,0.01928300681372537,0.7457286432160803
+60,18,disaster_test,batch_size,0,0.7002053388090349
+60,18,disaster_test,dropout_rate,0.35632505446195484,0.7002053388090349
+60,18,disaster_test,learning_rate,0.00005925353512101989,0.7002053388090349
+60,18,disaster_test,lr_scheduler_type,1,0.7002053388090349
+60,18,disaster_test,num_epochs,2,0.7002053388090349
+60,18,disaster_test,weight_decay,0.010091035406136185,0.7002053388090349
+61,18,disaster_test,batch_size,0,0.6909413854351688
+61,18,disaster_test,dropout_rate,0.15630670227119264,0.6909413854351688
+61,18,disaster_test,learning_rate,0.0000014288377339856653,0.6909413854351688
+61,18,disaster_test,lr_scheduler_type,3,0.6909413854351688
+61,18,disaster_test,num_epochs,1,0.6909413854351688
+61,18,disaster_test,weight_decay,0.03249823727690491,0.6909413854351688
+62,18,disaster_test,batch_size,0,0.7435387673956262
+62,18,disaster_test,dropout_rate,0.20012499019126048,0.7435387673956262
+62,18,disaster_test,learning_rate,0.000023451849577233928,0.7435387673956262
+62,18,disaster_test,lr_scheduler_type,1,0.7435387673956262
+62,18,disaster_test,num_epochs,1,0.7435387673956262
+62,18,disaster_test,weight_decay,0.07943482682735521,0.7435387673956262
+70,18,disaster_test,batch_size,0,"In Progress Or Failed"
+70,18,disaster_test,dropout_rate,0.35175408787281404,"In Progress Or Failed"
+70,18,disaster_test,learning_rate,0.00007583720633167451,"In Progress Or Failed"
+70,18,disaster_test,lr_scheduler_type,1,"In Progress Or Failed"
+70,18,disaster_test,num_epochs,2,"In Progress Or Failed"
+70,18,disaster_test,weight_decay,0.04261879513954471,"In Progress Or Failed"
+71,18,disaster_test,batch_size,0,"In Progress Or Failed"
+71,18,disaster_test,dropout_rate,0.48198937768053207,"In Progress Or Failed"
+71,18,disaster_test,learning_rate,0.0000010800330720933226,"In Progress Or Failed"
+71,18,disaster_test,lr_scheduler_type,1,"In Progress Or Failed"
+71,18,disaster_test,num_epochs,2,"In Progress Or Failed"
+71,18,disaster_test,weight_decay,0.09238350254936006,"In Progress Or Failed"
+72,18,disaster_test,batch_size,0,"In Progress Or Failed"
+72,18,disaster_test,dropout_rate,0.28101241939510613,"In Progress Or Failed"
+72,18,disaster_test,learning_rate,0.000038470408839901105,"In Progress Or Failed"
+72,18,disaster_test,lr_scheduler_type,1,"In Progress Or Failed"
+72,18,disaster_test,num_epochs,2,"In Progress Or Failed"
+72,18,disaster_test,weight_decay,0.01109990246310435,"In Progress Or Failed"
+73,18,disaster_test,batch_size,0,"In Progress Or Failed"
+73,18,disaster_test,dropout_rate,0.21330039585407154,"In Progress Or Failed"
+73,18,disaster_test,learning_rate,0.00007016945585354931,"In Progress Or Failed"
+73,18,disaster_test,lr_scheduler_type,0,"In Progress Or Failed"
+73,18,disaster_test,num_epochs,2,"In Progress Or Failed"
+73,18,disaster_test,weight_decay,0.07477556841625753,"In Progress Or Failed"
+74,18,disaster_test,batch_size,0,"In Progress Or Failed"
+74,18,disaster_test,dropout_rate,0.28629736937422395,"In Progress Or Failed"
+74,18,disaster_test,learning_rate,0.00006427480591273465,"In Progress Or Failed"
+74,18,disaster_test,lr_scheduler_type,1,"In Progress Or Failed"
+74,18,disaster_test,num_epochs,2,"In Progress Or Failed"
+74,18,disaster_test,weight_decay,0.09731438911003214,"In Progress Or Failed"
+75,18,disaster_test,batch_size,0,"In Progress Or Failed"
+75,18,disaster_test,dropout_rate,0.4564440344401124,"In Progress Or Failed"
+75,18,disaster_test,learning_rate,0.000012514975687799985,"In Progress Or Failed"
+75,18,disaster_test,lr_scheduler_type,2,"In Progress Or Failed"
+75,18,disaster_test,num_epochs,2,"In Progress Or Failed"
+75,18,disaster_test,weight_decay,0.08413989876990696,"In Progress Or Failed"
+76,18,disaster_test,batch_size,0,"In Progress Or Failed"
+76,18,disaster_test,dropout_rate,0.34174267674975634,"In Progress Or Failed"
+76,18,disaster_test,learning_rate,0.000003441922533621919,"In Progress Or Failed"
+76,18,disaster_test,lr_scheduler_type,1,"In Progress Or Failed"
+76,18,disaster_test,num_epochs,2,"In Progress Or Failed"
+76,18,disaster_test,weight_decay,0.09145446589073819,"In Progress Or Failed"
+77,18,disaster_test,batch_size,0,0.7804763519816342
+77,18,disaster_test,dropout_rate,0.3683510871473594,0.7804763519816342
+77,18,disaster_test,learning_rate,0.00000423944130265665,0.7804763519816342
+77,18,disaster_test,lr_scheduler_type,2,0.7804763519816342
+77,18,disaster_test,num_epochs,2,0.7804763519816342
+77,18,disaster_test,weight_decay,0.08320371248942361,0.7804763519816342
+79,18,disaster_test,batch_size,0,"In Progress Or Failed"
+79,18,disaster_test,dropout_rate,0.1491584235556588,"In Progress Or Failed"
+79,18,disaster_test,learning_rate,0.000007510246053708984,"In Progress Or Failed"
+79,18,disaster_test,lr_scheduler_type,3,"In Progress Or Failed"
+79,18,disaster_test,num_epochs,2,"In Progress Or Failed"
+79,18,disaster_test,weight_decay,0.022053677820571063,"In Progress Or Failed"
+81,18,disaster_test,batch_size,0,0.8027048590749818
+81,18,disaster_test,dropout_rate,0.1834471398405081,0.8027048590749818
+81,18,disaster_test,learning_rate,0.000005194991788554271,0.8027048590749818
+81,18,disaster_test,lr_scheduler_type,2,0.8027048590749818
+81,18,disaster_test,num_epochs,2,0.8027048590749818
+81,18,disaster_test,weight_decay,0.0526253958236475,0.8027048590749818
+84,18,disaster_test,batch_size,0,0.7250804013384369
+84,18,disaster_test,dropout_rate,0.25763119997742545,0.7250804013384369
+84,18,disaster_test,learning_rate,0.000004244162059507198,0.7250804013384369
+84,18,disaster_test,lr_scheduler_type,2,0.7250804013384369
+84,18,disaster_test,num_epochs,1,0.7250804013384369
+84,18,disaster_test,weight_decay,0.07694358910540362,0.7250804013384369
+88,39,disaster_test_mike,batch_size,0,0.45017028663546577
+88,39,disaster_test_mike,dropout_rate,0.2970508213564738,0.45017028663546577
+88,39,disaster_test_mike,learning_rate,0.00000154111959532707,0.45017028663546577
+88,39,disaster_test_mike,lr_scheduler_type,3,0.45017028663546577
+88,39,disaster_test_mike,num_epochs,1,0.45017028663546577
+88,39,disaster_test_mike,weight_decay,0.09442117076796303,0.45017028663546577
+91,39,disaster_test_mike,batch_size,0,0.8039147491937139
+91,39,disaster_test_mike,dropout_rate,0.2185465267818962,0.8039147491937139
+91,39,disaster_test_mike,learning_rate,0.00000776438480195921,0.8039147491937139
+91,39,disaster_test_mike,lr_scheduler_type,1,0.8039147491937139
+91,39,disaster_test_mike,num_epochs,1,0.8039147491937139
+91,39,disaster_test_mike,weight_decay,0.0048051589923466705,0.8039147491937139
+89,40,disaster_test_mike_2,batch_size,0,"In Progress Or Failed"
+89,40,disaster_test_mike_2,dropout_rate,0.4132073912441373,"In Progress Or Failed"
+89,40,disaster_test_mike_2,learning_rate,0.00001447202095999238,"In Progress Or Failed"
+89,40,disaster_test_mike_2,lr_scheduler_type,1,"In Progress Or Failed"
+89,40,disaster_test_mike_2,num_epochs,1,"In Progress Or Failed"
+89,40,disaster_test_mike_2,weight_decay,0.011942212505183437,"In Progress Or Failed"
+90,40,disaster_test_mike_2,batch_size,0,0.27802101576182137
+90,40,disaster_test_mike_2,dropout_rate,0.47485834699588214,0.27802101576182137
+90,40,disaster_test_mike_2,learning_rate,0.0000929189802557095,0.27802101576182137
+90,40,disaster_test_mike_2,lr_scheduler_type,3,0.27802101576182137
+90,40,disaster_test_mike_2,num_epochs,1,0.27802101576182137
+90,40,disaster_test_mike_2,weight_decay,0.0805445111289333,0.27802101576182137
+94,40,disaster_test_mike_2,batch_size,0,0.7960167915570824
+94,40,disaster_test_mike_2,dropout_rate,0.27079822564584,0.7960167915570824
+94,40,disaster_test_mike_2,learning_rate,0.000052958364373747914,0.7960167915570824
+94,40,disaster_test_mike_2,lr_scheduler_type,2,0.7960167915570824
+94,40,disaster_test_mike_2,num_epochs,1,0.7960167915570824
+94,40,disaster_test_mike_2,weight_decay,0.0014059875756963882,0.7960167915570824
+96,47,disaster_test_mike_3,batch_size,2,0.8141445695566767
+96,47,disaster_test_mike_3,dropout_rate,0.28018410530231297,0.8141445695566767
+96,47,disaster_test_mike_3,learning_rate,0.000013494250621744906,0.8141445695566767
+96,47,disaster_test_mike_3,lr_scheduler_type,3,0.8141445695566767
+96,47,disaster_test_mike_3,num_epochs,2,0.8141445695566767
+96,47,disaster_test_mike_3,weight_decay,0.04456572164903536,0.8141445695566767
+99,47,disaster_test_mike_3,batch_size,0,0.8096603646641555
+99,47,disaster_test_mike_3,dropout_rate,0.2067279052322983,0.8096603646641555
+99,47,disaster_test_mike_3,learning_rate,0.0000012291617522651063,0.8096603646641555
+99,47,disaster_test_mike_3,lr_scheduler_type,2,0.8096603646641555
+99,47,disaster_test_mike_3,num_epochs,4,0.8096603646641555
+99,47,disaster_test_mike_3,weight_decay,0.05479520159324169,0.8096603646641555
+101,47,disaster_test_mike_3,batch_size,0,"In Progress Or Failed"
+101,47,disaster_test_mike_3,dropout_rate,0.48723547786175303,"In Progress Or Failed"
+101,47,disaster_test_mike_3,learning_rate,0.00000286356609336391,"In Progress Or Failed"
+101,47,disaster_test_mike_3,lr_scheduler_type,2,"In Progress Or Failed"
+101,47,disaster_test_mike_3,num_epochs,7,"In Progress Or Failed"
+101,47,disaster_test_mike_3,weight_decay,0.053772782660344666,"In Progress Or Failed"
+92,43,disaster_test_mike2_2,batch_size,0,"In Progress Or Failed"
+92,43,disaster_test_mike2_2,dropout_rate,0.2153659433971151,"In Progress Or Failed"
+92,43,disaster_test_mike2_2,learning_rate,0.000023688074581033092,"In Progress Or Failed"
+92,43,disaster_test_mike2_2,lr_scheduler_type,1,"In Progress Or Failed"
+92,43,disaster_test_mike2_2,num_epochs,1,"In Progress Or Failed"
+92,43,disaster_test_mike2_2,weight_decay,0.0008105874844777317,"In Progress Or Failed"
+93,43,disaster_test_mike2_2,batch_size,0,"In Progress Or Failed"
+93,43,disaster_test_mike2_2,dropout_rate,0.25386347010374666,"In Progress Or Failed"
+93,43,disaster_test_mike2_2,learning_rate,0.0000067818971554455615,"In Progress Or Failed"
+93,43,disaster_test_mike2_2,lr_scheduler_type,3,"In Progress Or Failed"
+93,43,disaster_test_mike2_2,num_epochs,1,"In Progress Or Failed"
+93,43,disaster_test_mike2_2,weight_decay,0.03290578418854197,"In Progress Or Failed"
+95,43,disaster_test_mike2_2,batch_size,0,0.3602386532546469
+95,43,disaster_test_mike2_2,dropout_rate,0.3985951374755011,0.3602386532546469
+95,43,disaster_test_mike2_2,learning_rate,0.000002426421232669919,0.3602386532546469
+95,43,disaster_test_mike2_2,lr_scheduler_type,2,0.3602386532546469
+95,43,disaster_test_mike2_2,num_epochs,1,0.3602386532546469
+95,43,disaster_test_mike2_2,weight_decay,0.006026227287316766,0.3602386532546469
+97,48,disaster_test_mike2_3,batch_size,0,"In Progress Or Failed"
+97,48,disaster_test_mike2_3,dropout_rate,0.3272173647934402,"In Progress Or Failed"
+97,48,disaster_test_mike2_3,learning_rate,0.00004497506612181879,"In Progress Or Failed"
+97,48,disaster_test_mike2_3,lr_scheduler_type,2,"In Progress Or Failed"
+97,48,disaster_test_mike2_3,num_epochs,1,"In Progress Or Failed"
+97,48,disaster_test_mike2_3,weight_decay,0.056668445260842526,"In Progress Or Failed"
+98,49,disaster_test_mike2_4,batch_size,0,0.8162878717078342
+98,49,disaster_test_mike2_4,dropout_rate,0.30662536221018866,0.8162878717078342
+98,49,disaster_test_mike2_4,learning_rate,0.000013989036829307529,0.8162878717078342
+98,49,disaster_test_mike2_4,lr_scheduler_type,1,0.8162878717078342
+98,49,disaster_test_mike2_4,num_epochs,3,0.8162878717078342
+98,49,disaster_test_mike2_4,weight_decay,0.029868057651167724,0.8162878717078342
+100,49,disaster_test_mike2_4,batch_size,0,"In Progress Or Failed"
+100,49,disaster_test_mike2_4,dropout_rate,0.4277489225349599,"In Progress Or Failed"
+100,49,disaster_test_mike2_4,learning_rate,0.000013442320804616691,"In Progress Or Failed"
+100,49,disaster_test_mike2_4,lr_scheduler_type,1,"In Progress Or Failed"
+100,49,disaster_test_mike2_4,num_epochs,2,"In Progress Or Failed"
+100,49,disaster_test_mike2_4,weight_decay,0.08795068900394121,"In Progress Or Failed"
+78,32,disaster_test2,batch_size,0,0.7308356024674882
+78,32,disaster_test2,dropout_rate,0.20903715759408664,0.7308356024674882
+78,32,disaster_test2,learning_rate,0.0000014730375132114554,0.7308356024674882
+78,32,disaster_test2,lr_scheduler_type,3,0.7308356024674882
+78,32,disaster_test2,num_epochs,2,0.7308356024674882
+78,32,disaster_test2,weight_decay,0.028232459805220933,0.7308356024674882
+82,32,disaster_test2,batch_size,0,0.7934038270271975
+82,32,disaster_test2,dropout_rate,0.12444765720184484,0.7934038270271975
+82,32,disaster_test2,learning_rate,0.0000043679780832190475,0.7934038270271975
+82,32,disaster_test2,lr_scheduler_type,1,0.7934038270271975
+82,32,disaster_test2,num_epochs,2,0.7934038270271975
+82,32,disaster_test2,weight_decay,0.06277706989085222,0.7934038270271975
+80,34,disaster_test3,batch_size,0,"In Progress Or Failed"
+80,34,disaster_test3,dropout_rate,0.42869718071006246,"In Progress Or Failed"
+80,34,disaster_test3,learning_rate,0.000012229071919873583,"In Progress Or Failed"
+80,34,disaster_test3,lr_scheduler_type,2,"In Progress Or Failed"
+80,34,disaster_test3,num_epochs,2,"In Progress Or Failed"
+80,34,disaster_test3,weight_decay,0.08507512426607886,"In Progress Or Failed"
+83,34,disaster_test3,batch_size,0,"In Progress Or Failed"
+83,34,disaster_test3,dropout_rate,0.397940107476095,"In Progress Or Failed"
+83,34,disaster_test3,learning_rate,0.000002822606402887899,"In Progress Or Failed"
+83,34,disaster_test3,lr_scheduler_type,0,"In Progress Or Failed"
+83,34,disaster_test3,num_epochs,2,"In Progress Or Failed"
+83,34,disaster_test3,weight_decay,0.046152933560626976,"In Progress Or Failed"
+85,34,disaster_test3,batch_size,0,0.7710319054401149
+85,34,disaster_test3,dropout_rate,0.16026415454078144,0.7710319054401149
+85,34,disaster_test3,learning_rate,0.00005661609553960332,0.7710319054401149
+85,34,disaster_test3,lr_scheduler_type,0,0.7710319054401149
+85,34,disaster_test3,num_epochs,2,0.7710319054401149
+85,34,disaster_test3,weight_decay,0.08689271489481165,0.7710319054401149
+86,34,disaster_test3,batch_size,0,0.7641790924711871
+86,34,disaster_test3,dropout_rate,0.10134241072764714,0.7641790924711871
+86,34,disaster_test3,learning_rate,0.00006370601591099214,0.7641790924711871
+86,34,disaster_test3,lr_scheduler_type,1,0.7641790924711871
+86,34,disaster_test3,num_epochs,1,0.7641790924711871
+86,34,disaster_test3,weight_decay,0.071915508313671,0.7641790924711871
+87,34,disaster_test3,batch_size,0,0.7261236871216344
+87,34,disaster_test3,dropout_rate,0.1797436635747261,0.7261236871216344
+87,34,disaster_test3,learning_rate,0.0000018632807947023792,0.7261236871216344
+87,34,disaster_test3,lr_scheduler_type,1,0.7261236871216344
+87,34,disaster_test3,num_epochs,2,0.7261236871216344
+87,34,disaster_test3,weight_decay,0.047152014968196945,0.7261236871216344
+1,1,disaster_third,batch_size,0,0.7426326129666011
+1,1,disaster_third,learning_rate,0.000003838412200274638,0.7426326129666011
+1,1,disaster_third,num_epochs,1,0.7426326129666011
+233,107,disaster_withKeyword_0,batch_size,2,"In Progress Or Failed"
+233,107,disaster_withKeyword_0,dropout_rate,0.1143371307566957,"In Progress Or Failed"
+233,107,disaster_withKeyword_0,learning_rate,0.00009591479336202242,"In Progress Or Failed"
+233,107,disaster_withKeyword_0,lr_scheduler_type,0,"In Progress Or Failed"
+233,107,disaster_withKeyword_0,num_epochs,3,"In Progress Or Failed"
+233,107,disaster_withKeyword_0,weight_decay,0.011142613263118273,"In Progress Or Failed"
+234,107,disaster_withKeyword_0,batch_size,1,0.818802535533905
+234,107,disaster_withKeyword_0,dropout_rate,0.31909659427685644,0.818802535533905
+234,107,disaster_withKeyword_0,learning_rate,0.0000020264082488565803,0.818802535533905
+234,107,disaster_withKeyword_0,lr_scheduler_type,0,0.818802535533905
+234,107,disaster_withKeyword_0,num_epochs,7,0.818802535533905
+234,107,disaster_withKeyword_0,weight_decay,0.03244314200134748,0.818802535533905
+238,107,disaster_withKeyword_0,batch_size,2,0.8408613204956055
+238,107,disaster_withKeyword_0,dropout_rate,0.2783695050062259,0.8408613204956055
+238,107,disaster_withKeyword_0,learning_rate,0.000012122382967133058,0.8408613204956055
+238,107,disaster_withKeyword_0,lr_scheduler_type,3,0.8408613204956055
+238,107,disaster_withKeyword_0,num_epochs,5,0.8408613204956055
+238,107,disaster_withKeyword_0,weight_decay,0.011416239578092813,0.8408613204956055
+240,107,disaster_withKeyword_0,batch_size,2,0.8167017102241516
+240,107,disaster_withKeyword_0,dropout_rate,0.19221035445437337,0.8167017102241516
+240,107,disaster_withKeyword_0,learning_rate,0.00006592134495392111,0.8167017102241516
+240,107,disaster_withKeyword_0,lr_scheduler_type,3,0.8167017102241516
+240,107,disaster_withKeyword_0,num_epochs,8,0.8167017102241516
+240,107,disaster_withKeyword_0,weight_decay,0.00465649304923661,0.8167017102241516
+241,107,disaster_withKeyword_0,batch_size,0,0.8298319578170776
+241,107,disaster_withKeyword_0,dropout_rate,0.4208938423165408,0.8298319578170776
+241,107,disaster_withKeyword_0,learning_rate,0.000001472562568850532,0.8298319578170776
+241,107,disaster_withKeyword_0,lr_scheduler_type,1,0.8298319578170776
+241,107,disaster_withKeyword_0,num_epochs,4,0.8298319578170776
+241,107,disaster_withKeyword_0,weight_decay,0.007575540553414795,0.8298319578170776
+243,107,disaster_withKeyword_0,batch_size,0,0.8282563090324402
+243,107,disaster_withKeyword_0,dropout_rate,0.3501714405003139,0.8282563090324402
+243,107,disaster_withKeyword_0,learning_rate,0.000001091259325680417,0.8282563090324402
+243,107,disaster_withKeyword_0,lr_scheduler_type,3,0.8282563090324402
+243,107,disaster_withKeyword_0,num_epochs,4,0.8282563090324402
+243,107,disaster_withKeyword_0,weight_decay,0.0075510436565502164,0.8282563090324402
+247,107,disaster_withKeyword_0,batch_size,0,0.8371848464012146
+247,107,disaster_withKeyword_0,dropout_rate,0.1467910683970625,0.8371848464012146
+247,107,disaster_withKeyword_0,learning_rate,0.0000017937887974324016,0.8371848464012146
+247,107,disaster_withKeyword_0,lr_scheduler_type,0,0.8371848464012146
+247,107,disaster_withKeyword_0,num_epochs,7,0.8371848464012146
+247,107,disaster_withKeyword_0,weight_decay,0.08464846380202465,0.8371848464012146
+248,107,disaster_withKeyword_0,batch_size,1,0.8413865566253662
+248,107,disaster_withKeyword_0,dropout_rate,0.17740709706968683,0.8413865566253662
+248,107,disaster_withKeyword_0,learning_rate,0.00003597440767264782,0.8413865566253662
+248,107,disaster_withKeyword_0,lr_scheduler_type,2,0.8413865566253662
+248,107,disaster_withKeyword_0,num_epochs,3,0.8413865566253662
+248,107,disaster_withKeyword_0,weight_decay,0.046338245490652755,0.8413865566253662
+249,107,disaster_withKeyword_0,batch_size,2,0.8266806602478027
+249,107,disaster_withKeyword_0,dropout_rate,0.403593790196891,0.8266806602478027
+249,107,disaster_withKeyword_0,learning_rate,0.0000014945056715199594,0.8266806602478027
+249,107,disaster_withKeyword_0,lr_scheduler_type,1,0.8266806602478027
+249,107,disaster_withKeyword_0,num_epochs,6,0.8266806602478027
+249,107,disaster_withKeyword_0,weight_decay,0.05689200895443208,0.8266806602478027
+251,107,disaster_withKeyword_0,batch_size,1,0.5703781247138977
+251,107,disaster_withKeyword_0,dropout_rate,0.3877948921657567,0.5703781247138977
+251,107,disaster_withKeyword_0,learning_rate,0.00009995468930265605,0.5703781247138977
+251,107,disaster_withKeyword_0,lr_scheduler_type,0,0.5703781247138977
+251,107,disaster_withKeyword_0,num_epochs,3,0.5703781247138977
+251,107,disaster_withKeyword_0,weight_decay,0.015470746155347371,0.5703781247138977
+252,107,disaster_withKeyword_0,batch_size,1,0.8230041861534119
+252,107,disaster_withKeyword_0,dropout_rate,0.4027082963413303,0.8230041861534119
+252,107,disaster_withKeyword_0,learning_rate,0.0000012847804384416188,0.8230041861534119
+252,107,disaster_withKeyword_0,lr_scheduler_type,2,0.8230041861534119
+252,107,disaster_withKeyword_0,num_epochs,3,0.8230041861534119
+252,107,disaster_withKeyword_0,weight_decay,0.07993015509503956,0.8230041861534119
+254,107,disaster_withKeyword_0,batch_size,1,0.8329831957817078
+254,107,disaster_withKeyword_0,dropout_rate,0.12846824370213641,0.8329831957817078
+254,107,disaster_withKeyword_0,learning_rate,0.0000035198273018946095,0.8329831957817078
+254,107,disaster_withKeyword_0,lr_scheduler_type,0,0.8329831957817078
+254,107,disaster_withKeyword_0,num_epochs,9,0.8329831957817078
+254,107,disaster_withKeyword_0,weight_decay,0.06941000700836748,0.8329831957817078
+257,107,disaster_withKeyword_0,batch_size,1,0.832457959651947
+257,107,disaster_withKeyword_0,dropout_rate,0.401952924568178,0.832457959651947
+257,107,disaster_withKeyword_0,learning_rate,0.000001361357433492512,0.832457959651947
+257,107,disaster_withKeyword_0,lr_scheduler_type,3,0.832457959651947
+257,107,disaster_withKeyword_0,num_epochs,9,0.832457959651947
+257,107,disaster_withKeyword_0,weight_decay,0.09271030692646633,0.832457959651947
+258,107,disaster_withKeyword_0,batch_size,2,0.8382353186607361
+258,107,disaster_withKeyword_0,dropout_rate,0.4388077524548032,0.8382353186607361
+258,107,disaster_withKeyword_0,learning_rate,0.00004058282312135247,0.8382353186607361
+258,107,disaster_withKeyword_0,lr_scheduler_type,3,0.8382353186607361
+258,107,disaster_withKeyword_0,num_epochs,10,0.8382353186607361
+258,107,disaster_withKeyword_0,weight_decay,0.09511706907066295,0.8382353186607361
+260,107,disaster_withKeyword_0,batch_size,1,0.838760495185852
+260,107,disaster_withKeyword_0,dropout_rate,0.1048396386318538,0.838760495185852
+260,107,disaster_withKeyword_0,learning_rate,0.000022493805095665038,0.838760495185852
+260,107,disaster_withKeyword_0,lr_scheduler_type,2,0.838760495185852
+260,107,disaster_withKeyword_0,num_epochs,10,0.838760495185852
+260,107,disaster_withKeyword_0,weight_decay,0.055186552496131816,0.838760495185852
+264,107,disaster_withKeyword_0,batch_size,2,0.8303571343421936
+264,107,disaster_withKeyword_0,dropout_rate,0.24018947215280273,0.8303571343421936
+264,107,disaster_withKeyword_0,learning_rate,0.000022031040139657016,0.8303571343421936
+264,107,disaster_withKeyword_0,lr_scheduler_type,2,0.8303571343421936
+264,107,disaster_withKeyword_0,num_epochs,5,0.8303571343421936
+264,107,disaster_withKeyword_0,weight_decay,0.03602288231038981,0.8303571343421936
+266,107,disaster_withKeyword_0,batch_size,2,"In Progress Or Failed"
+266,107,disaster_withKeyword_0,dropout_rate,0.24025139070064136,"In Progress Or Failed"
+266,107,disaster_withKeyword_0,learning_rate,0.000019515139754446794,"In Progress Or Failed"
+266,107,disaster_withKeyword_0,lr_scheduler_type,2,"In Progress Or Failed"
+266,107,disaster_withKeyword_0,num_epochs,5,"In Progress Or Failed"
+266,107,disaster_withKeyword_0,weight_decay,0.03531955600808373,"In Progress Or Failed"
+267,107,disaster_withKeyword_0,batch_size,2,0.8282563090324402
+267,107,disaster_withKeyword_0,dropout_rate,0.24211274123227017,0.8282563090324402
+267,107,disaster_withKeyword_0,learning_rate,0.00001641032448914859,0.8282563090324402
+267,107,disaster_withKeyword_0,lr_scheduler_type,2,0.8282563090324402
+267,107,disaster_withKeyword_0,num_epochs,5,0.8282563090324402
+267,107,disaster_withKeyword_0,weight_decay,0.036482844429003895,0.8282563090324402
+270,107,disaster_withKeyword_0,batch_size,2,0.8350840210914612
+270,107,disaster_withKeyword_0,dropout_rate,0.2514220848273027,0.8350840210914612
+270,107,disaster_withKeyword_0,learning_rate,0.000008763513954993001,0.8350840210914612
+270,107,disaster_withKeyword_0,lr_scheduler_type,2,0.8350840210914612
+270,107,disaster_withKeyword_0,num_epochs,5,0.8350840210914612
+270,107,disaster_withKeyword_0,weight_decay,0.028202376734687847,0.8350840210914612
+271,107,disaster_withKeyword_0,batch_size,2,0.832457959651947
+271,107,disaster_withKeyword_0,dropout_rate,0.23492146476494363,0.832457959651947
+271,107,disaster_withKeyword_0,learning_rate,0.00000686562295591668,0.832457959651947
+271,107,disaster_withKeyword_0,lr_scheduler_type,2,0.832457959651947
+271,107,disaster_withKeyword_0,num_epochs,5,0.832457959651947
+271,107,disaster_withKeyword_0,weight_decay,0.0282956966855671,0.832457959651947
+274,107,disaster_withKeyword_0,batch_size,2,0.8356092572212219
+274,107,disaster_withKeyword_0,dropout_rate,0.2634418824130473,0.8356092572212219
+274,107,disaster_withKeyword_0,learning_rate,0.000006908337523753245,0.8356092572212219
+274,107,disaster_withKeyword_0,lr_scheduler_type,3,0.8356092572212219
+274,107,disaster_withKeyword_0,num_epochs,5,0.8356092572212219
+274,107,disaster_withKeyword_0,weight_decay,0.02230995900384468,0.8356092572212219
+275,107,disaster_withKeyword_0,batch_size,2,"In Progress Or Failed"
+275,107,disaster_withKeyword_0,dropout_rate,0.4992318847417284,"In Progress Or Failed"
+275,107,disaster_withKeyword_0,learning_rate,0.000007720896379078354,"In Progress Or Failed"
+275,107,disaster_withKeyword_0,lr_scheduler_type,3,"In Progress Or Failed"
+275,107,disaster_withKeyword_0,num_epochs,5,"In Progress Or Failed"
+275,107,disaster_withKeyword_0,weight_decay,0.023358180548782026,"In Progress Or Failed"
+277,107,disaster_withKeyword_0,batch_size,2,0.8413865566253662
+277,107,disaster_withKeyword_0,dropout_rate,0.19790015228273397,0.8413865566253662
+277,107,disaster_withKeyword_0,learning_rate,0.000008915519666137052,0.8413865566253662
+277,107,disaster_withKeyword_0,lr_scheduler_type,3,0.8413865566253662
+277,107,disaster_withKeyword_0,num_epochs,4,0.8413865566253662
+277,107,disaster_withKeyword_0,weight_decay,0.021204917508613814,0.8413865566253662
+278,107,disaster_withKeyword_0,batch_size,1,0.8366596698760986
+278,107,disaster_withKeyword_0,dropout_rate,0.1827380227302508,0.8366596698760986
+278,107,disaster_withKeyword_0,learning_rate,0.000004887863970779527,0.8366596698760986
+278,107,disaster_withKeyword_0,lr_scheduler_type,3,0.8366596698760986
+278,107,disaster_withKeyword_0,num_epochs,4,0.8366596698760986
+278,107,disaster_withKeyword_0,weight_decay,0.046132412212523566,0.8366596698760986
+279,107,disaster_withKeyword_0,batch_size,1,0.8219537734985352
+279,107,disaster_withKeyword_0,dropout_rate,0.4919508133707077,0.8219537734985352
+279,107,disaster_withKeyword_0,learning_rate,0.000005074647739417138,0.8219537734985352
+279,107,disaster_withKeyword_0,lr_scheduler_type,3,0.8219537734985352
+279,107,disaster_withKeyword_0,num_epochs,4,0.8219537734985352
+279,107,disaster_withKeyword_0,weight_decay,0.04514100045526482,0.8219537734985352
+281,107,disaster_withKeyword_0,batch_size,1,0.8303571343421936
+281,107,disaster_withKeyword_0,dropout_rate,0.18329577413002737,0.8303571343421936
+281,107,disaster_withKeyword_0,learning_rate,0.000039854117851693134,0.8303571343421936
+281,107,disaster_withKeyword_0,lr_scheduler_type,1,0.8303571343421936
+281,107,disaster_withKeyword_0,num_epochs,3,0.8303571343421936
+281,107,disaster_withKeyword_0,weight_decay,0.047917592140243326,0.8303571343421936
+284,107,disaster_withKeyword_0,batch_size,1,0.8440126180648804
+284,107,disaster_withKeyword_0,dropout_rate,0.18590685010933145,0.8440126180648804
+284,107,disaster_withKeyword_0,learning_rate,0.000003827590624340534,0.8440126180648804
+284,107,disaster_withKeyword_0,lr_scheduler_type,1,0.8440126180648804
+284,107,disaster_withKeyword_0,num_epochs,3,0.8440126180648804
+284,107,disaster_withKeyword_0,weight_decay,0.04504576820496772,0.8440126180648804
+285,107,disaster_withKeyword_0,batch_size,2,0.8413865566253662
+285,107,disaster_withKeyword_0,dropout_rate,0.19124593374343318,0.8413865566253662
+285,107,disaster_withKeyword_0,learning_rate,0.000014006278919222572,0.8413865566253662
+285,107,disaster_withKeyword_0,lr_scheduler_type,3,0.8413865566253662
+285,107,disaster_withKeyword_0,num_epochs,3,0.8413865566253662
+285,107,disaster_withKeyword_0,weight_decay,0.01771301692050728,0.8413865566253662
+286,107,disaster_withKeyword_0,batch_size,2,0.8335084319114685
+286,107,disaster_withKeyword_0,dropout_rate,0.47917680374636734,0.8335084319114685
+286,107,disaster_withKeyword_0,learning_rate,0.000012947211061919639,0.8335084319114685
+286,107,disaster_withKeyword_0,lr_scheduler_type,3,0.8335084319114685
+286,107,disaster_withKeyword_0,num_epochs,4,0.8335084319114685
+286,107,disaster_withKeyword_0,weight_decay,0.017717813542015657,0.8335084319114685
+287,107,disaster_withKeyword_0,batch_size,2,0.8272058963775635
+287,107,disaster_withKeyword_0,dropout_rate,0.2929246696992288,0.8272058963775635
+287,107,disaster_withKeyword_0,learning_rate,0.000014140457695572028,0.8272058963775635
+287,107,disaster_withKeyword_0,lr_scheduler_type,3,0.8272058963775635
+287,107,disaster_withKeyword_0,num_epochs,6,0.8272058963775635
+287,107,disaster_withKeyword_0,weight_decay,0.017626517268158164,0.8272058963775635
+289,107,disaster_withKeyword_0,batch_size,2,0.831932783126831
+289,107,disaster_withKeyword_0,dropout_rate,0.20999933982225244,0.831932783126831
+289,107,disaster_withKeyword_0,learning_rate,0.00003752508252660323,0.831932783126831
+289,107,disaster_withKeyword_0,lr_scheduler_type,3,0.831932783126831
+289,107,disaster_withKeyword_0,num_epochs,3,0.831932783126831
+289,107,disaster_withKeyword_0,weight_decay,0.01932685481899782,0.831932783126831
+291,107,disaster_withKeyword_0,batch_size,1,0.8408613204956055
+291,107,disaster_withKeyword_0,dropout_rate,0.1419216043904393,0.8408613204956055
+291,107,disaster_withKeyword_0,learning_rate,0.0000030515961586104913,0.8408613204956055
+291,107,disaster_withKeyword_0,lr_scheduler_type,1,0.8408613204956055
+291,107,disaster_withKeyword_0,num_epochs,3,0.8408613204956055
+291,107,disaster_withKeyword_0,weight_decay,0.06699689969047043,0.8408613204956055
+293,107,disaster_withKeyword_0,batch_size,1,0.8345588445663452
+293,107,disaster_withKeyword_0,dropout_rate,0.15086111382639683,0.8345588445663452
+293,107,disaster_withKeyword_0,learning_rate,0.0000032680013732298857,0.8345588445663452
+293,107,disaster_withKeyword_0,lr_scheduler_type,1,0.8345588445663452
+293,107,disaster_withKeyword_0,num_epochs,3,0.8345588445663452
+293,107,disaster_withKeyword_0,weight_decay,0.06391391146860877,0.8345588445663452
+295,107,disaster_withKeyword_0,batch_size,1,0.8303571343421936
+295,107,disaster_withKeyword_0,dropout_rate,0.15440879662458468,0.8303571343421936
+295,107,disaster_withKeyword_0,learning_rate,0.000002997458454297413,0.8303571343421936
+295,107,disaster_withKeyword_0,lr_scheduler_type,1,0.8303571343421936
+295,107,disaster_withKeyword_0,num_epochs,6,0.8303571343421936
+295,107,disaster_withKeyword_0,weight_decay,0.06384320301308581,0.8303571343421936
+296,107,disaster_withKeyword_0,batch_size,0,"In Progress Or Failed"
+296,107,disaster_withKeyword_0,dropout_rate,0.16397382432954033,"In Progress Or Failed"
+296,107,disaster_withKeyword_0,learning_rate,0.0000026243434652281174,"In Progress Or Failed"
+296,107,disaster_withKeyword_0,lr_scheduler_type,1,"In Progress Or Failed"
+296,107,disaster_withKeyword_0,num_epochs,6,"In Progress Or Failed"
+296,107,disaster_withKeyword_0,weight_decay,0.0648165557774612,"In Progress Or Failed"
+297,107,disaster_withKeyword_0,batch_size,1,"In Progress Or Failed"
+297,107,disaster_withKeyword_0,dropout_rate,0.31361071162243426,"In Progress Or Failed"
+297,107,disaster_withKeyword_0,learning_rate,0.0000025136271354203242,"In Progress Or Failed"
+297,107,disaster_withKeyword_0,lr_scheduler_type,1,"In Progress Or Failed"
+297,107,disaster_withKeyword_0,num_epochs,4,"In Progress Or Failed"
+297,107,disaster_withKeyword_0,weight_decay,0.04178541049777203,"In Progress Or Failed"
+298,107,disaster_withKeyword_0,batch_size,0,"In Progress Or Failed"
+298,107,disaster_withKeyword_0,dropout_rate,0.32641799043242326,"In Progress Or Failed"
+298,107,disaster_withKeyword_0,learning_rate,0.000002680529109503707,"In Progress Or Failed"
+298,107,disaster_withKeyword_0,lr_scheduler_type,1,"In Progress Or Failed"
+298,107,disaster_withKeyword_0,num_epochs,4,"In Progress Or Failed"
+298,107,disaster_withKeyword_0,weight_decay,0.039942769615209504,"In Progress Or Failed"
+300,107,disaster_withKeyword_0,batch_size,0,"In Progress Or Failed"
+300,107,disaster_withKeyword_0,dropout_rate,0.3204207228028857,"In Progress Or Failed"
+300,107,disaster_withKeyword_0,learning_rate,0.0000024855446122452645,"In Progress Or Failed"
+300,107,disaster_withKeyword_0,lr_scheduler_type,1,"In Progress Or Failed"
+300,107,disaster_withKeyword_0,num_epochs,4,"In Progress Or Failed"
+300,107,disaster_withKeyword_0,weight_decay,0.040081803471597476,"In Progress Or Failed"
+301,107,disaster_withKeyword_0,batch_size,0,0.855042040348053
+301,107,disaster_withKeyword_0,dropout_rate,0.3261984812303381,0.855042040348053
+301,107,disaster_withKeyword_0,learning_rate,0.00002244399450654266,0.855042040348053
+301,107,disaster_withKeyword_0,lr_scheduler_type,1,0.855042040348053
+301,107,disaster_withKeyword_0,num_epochs,4,0.855042040348053
+301,107,disaster_withKeyword_0,weight_decay,0.04024248953184716,0.855042040348053
+302,107,disaster_withKeyword_0,batch_size,0,"In Progress Or Failed"
+302,107,disaster_withKeyword_0,dropout_rate,0.32100090309929996,"In Progress Or Failed"
+302,107,disaster_withKeyword_0,learning_rate,0.00002221308628131608,"In Progress Or Failed"
+302,107,disaster_withKeyword_0,lr_scheduler_type,1,"In Progress Or Failed"
+302,107,disaster_withKeyword_0,num_epochs,4,"In Progress Or Failed"
+302,107,disaster_withKeyword_0,weight_decay,0.042005256856063884,"In Progress Or Failed"
+304,107,disaster_withKeyword_0,batch_size,0,0.8413865566253662
+304,107,disaster_withKeyword_0,dropout_rate,0.21076530215288186,0.8413865566253662
+304,107,disaster_withKeyword_0,learning_rate,0.000026591789877871176,0.8413865566253662
+304,107,disaster_withKeyword_0,lr_scheduler_type,1,0.8413865566253662
+304,107,disaster_withKeyword_0,num_epochs,4,0.8413865566253662
+304,107,disaster_withKeyword_0,weight_decay,0.041621162953394256,0.8413865566253662
+305,107,disaster_withKeyword_0,batch_size,0,0.8335084319114685
+305,107,disaster_withKeyword_0,dropout_rate,0.20571439309005757,0.8335084319114685
+305,107,disaster_withKeyword_0,learning_rate,0.000025070554933571543,0.8335084319114685
+305,107,disaster_withKeyword_0,lr_scheduler_type,1,0.8335084319114685
+305,107,disaster_withKeyword_0,num_epochs,4,0.8335084319114685
+305,107,disaster_withKeyword_0,weight_decay,0.000008973838973601322,0.8335084319114685
+308,107,disaster_withKeyword_0,batch_size,0,0.8340336084365845
+308,107,disaster_withKeyword_0,dropout_rate,0.20849388501030058,0.8340336084365845
+308,107,disaster_withKeyword_0,learning_rate,0.000022500797787219087,0.8340336084365845
+308,107,disaster_withKeyword_0,lr_scheduler_type,1,0.8340336084365845
+308,107,disaster_withKeyword_0,num_epochs,4,0.8340336084365845
+308,107,disaster_withKeyword_0,weight_decay,0.00020984864376551518,0.8340336084365845
+310,107,disaster_withKeyword_0,batch_size,0,0.831932783126831
+310,107,disaster_withKeyword_0,dropout_rate,0.3426857216104075,0.831932783126831
+310,107,disaster_withKeyword_0,learning_rate,0.000021992738963417023,0.831932783126831
+310,107,disaster_withKeyword_0,lr_scheduler_type,1,0.831932783126831
+310,107,disaster_withKeyword_0,num_epochs,4,0.831932783126831
+310,107,disaster_withKeyword_0,weight_decay,0.040738190447188544,0.831932783126831
+311,107,disaster_withKeyword_0,batch_size,0,0.5441176295280457
+311,107,disaster_withKeyword_0,dropout_rate,0.3448118580981549,0.5441176295280457
+311,107,disaster_withKeyword_0,learning_rate,0.00005998581165035042,0.5441176295280457
+311,107,disaster_withKeyword_0,lr_scheduler_type,1,0.5441176295280457
+311,107,disaster_withKeyword_0,num_epochs,4,0.5441176295280457
+311,107,disaster_withKeyword_0,weight_decay,0.0556684022626768,0.5441176295280457
+312,107,disaster_withKeyword_0,batch_size,0,0.819327712059021
+312,107,disaster_withKeyword_0,dropout_rate,0.3048149057995261,0.819327712059021
+312,107,disaster_withKeyword_0,learning_rate,0.00005305526313911997,0.819327712059021
+312,107,disaster_withKeyword_0,lr_scheduler_type,1,0.819327712059021
+312,107,disaster_withKeyword_0,num_epochs,4,0.819327712059021
+312,107,disaster_withKeyword_0,weight_decay,0.05373353210741419,0.819327712059021
+313,107,disaster_withKeyword_0,batch_size,0,0.845588207244873
+313,107,disaster_withKeyword_0,dropout_rate,0.31170586231590347,0.845588207244873
+313,107,disaster_withKeyword_0,learning_rate,0.000010400329201738911,0.845588207244873
+313,107,disaster_withKeyword_0,lr_scheduler_type,1,0.845588207244873
+313,107,disaster_withKeyword_0,num_epochs,3,0.845588207244873
+313,107,disaster_withKeyword_0,weight_decay,0.039513227377611454,0.845588207244873
+317,107,disaster_withKeyword_0,batch_size,0,0.5703781247138977
+317,107,disaster_withKeyword_0,dropout_rate,0.3358264840892539,0.5703781247138977
+317,107,disaster_withKeyword_0,learning_rate,0.00007196890359965646,0.5703781247138977
+317,107,disaster_withKeyword_0,lr_scheduler_type,1,0.5703781247138977
+317,107,disaster_withKeyword_0,num_epochs,3,0.5703781247138977
+317,107,disaster_withKeyword_0,weight_decay,0.053065952488596975,0.5703781247138977
+319,107,disaster_withKeyword_0,batch_size,0,0.8172268867492676
+319,107,disaster_withKeyword_0,dropout_rate,0.3315689035965873,0.8172268867492676
+319,107,disaster_withKeyword_0,learning_rate,0.00003563276664834293,0.8172268867492676
+319,107,disaster_withKeyword_0,lr_scheduler_type,1,0.8172268867492676
+319,107,disaster_withKeyword_0,num_epochs,3,0.8172268867492676
+319,107,disaster_withKeyword_0,weight_decay,0.05368244856677932,0.8172268867492676
+320,107,disaster_withKeyword_0,batch_size,0,0.8272058963775635
+320,107,disaster_withKeyword_0,dropout_rate,0.3144233823695152,0.8272058963775635
+320,107,disaster_withKeyword_0,learning_rate,0.00006701943413848717,0.8272058963775635
+320,107,disaster_withKeyword_0,lr_scheduler_type,1,0.8272058963775635
+320,107,disaster_withKeyword_0,num_epochs,3,0.8272058963775635
+320,107,disaster_withKeyword_0,weight_decay,0.05201206366911133,0.8272058963775635
+321,107,disaster_withKeyword_0,batch_size,0,0.8103991746902466
+321,107,disaster_withKeyword_0,dropout_rate,0.3234200272550808,0.8103991746902466
+321,107,disaster_withKeyword_0,learning_rate,0.00003039561078276063,0.8103991746902466
+321,107,disaster_withKeyword_0,lr_scheduler_type,0,0.8103991746902466
+321,107,disaster_withKeyword_0,num_epochs,7,0.8103991746902466
+321,107,disaster_withKeyword_0,weight_decay,0.02923931247495137,0.8103991746902466
+322,107,disaster_withKeyword_0,batch_size,0,0.8230041861534119
+322,107,disaster_withKeyword_0,dropout_rate,0.37000694848211846,0.8230041861534119
+322,107,disaster_withKeyword_0,learning_rate,0.00001755485125178147,0.8230041861534119
+322,107,disaster_withKeyword_0,lr_scheduler_type,0,0.8230041861534119
+322,107,disaster_withKeyword_0,num_epochs,7,0.8230041861534119
+322,107,disaster_withKeyword_0,weight_decay,0.033459528694266716,0.8230041861534119
+323,107,disaster_withKeyword_0,batch_size,0,0.8287814855575562
+323,107,disaster_withKeyword_0,dropout_rate,0.3681812341369317,0.8287814855575562
+323,107,disaster_withKeyword_0,learning_rate,0.000010194435345232985,0.8287814855575562
+323,107,disaster_withKeyword_0,lr_scheduler_type,0,0.8287814855575562
+323,107,disaster_withKeyword_0,num_epochs,3,0.8287814855575562
+323,107,disaster_withKeyword_0,weight_decay,0.03224139663480133,0.8287814855575562
+324,107,disaster_withKeyword_0,batch_size,0,0.8119747638702393
+324,107,disaster_withKeyword_0,dropout_rate,0.28189874494549116,0.8119747638702393
+324,107,disaster_withKeyword_0,learning_rate,0.000010268244061380491,0.8119747638702393
+324,107,disaster_withKeyword_0,lr_scheduler_type,0,0.8119747638702393
+324,107,disaster_withKeyword_0,num_epochs,7,0.8119747638702393
+324,107,disaster_withKeyword_0,weight_decay,0.028233376080364747,0.8119747638702393
+328,107,disaster_withKeyword_0,batch_size,1,0.8434873819351196
+328,107,disaster_withKeyword_0,dropout_rate,0.27185697400363124,0.8434873819351196
+328,107,disaster_withKeyword_0,learning_rate,0.000009803449048224751,0.8434873819351196
+328,107,disaster_withKeyword_0,lr_scheduler_type,2,0.8434873819351196
+328,107,disaster_withKeyword_0,num_epochs,7,0.8434873819351196
+328,107,disaster_withKeyword_0,weight_decay,0.02386814678431952,0.8434873819351196
+330,107,disaster_withKeyword_0,batch_size,1,"In Progress Or Failed"
+330,107,disaster_withKeyword_0,dropout_rate,0.2840714252043437,"In Progress Or Failed"
+330,107,disaster_withKeyword_0,learning_rate,0.000016840221421772527,"In Progress Or Failed"
+330,107,disaster_withKeyword_0,lr_scheduler_type,2,"In Progress Or Failed"
+330,107,disaster_withKeyword_0,num_epochs,3,"In Progress Or Failed"
+330,107,disaster_withKeyword_0,weight_decay,0.010062582399247032,"In Progress Or Failed"
+331,107,disaster_withKeyword_0,batch_size,1,0.841911792755127
+331,107,disaster_withKeyword_0,dropout_rate,0.2854346578324056,0.841911792755127
+331,107,disaster_withKeyword_0,learning_rate,0.000008510280456159332,0.841911792755127
+331,107,disaster_withKeyword_0,lr_scheduler_type,2,0.841911792755127
+331,107,disaster_withKeyword_0,num_epochs,3,0.841911792755127
+331,107,disaster_withKeyword_0,weight_decay,0.038581317622333564,0.841911792755127
+332,107,disaster_withKeyword_0,batch_size,1,0.8440126180648804
+332,107,disaster_withKeyword_0,dropout_rate,0.1678198487403304,0.8440126180648804
+332,107,disaster_withKeyword_0,learning_rate,0.0000021962475793711526,0.8440126180648804
+332,107,disaster_withKeyword_0,lr_scheduler_type,2,0.8440126180648804
+332,107,disaster_withKeyword_0,num_epochs,3,0.8440126180648804
+332,107,disaster_withKeyword_0,weight_decay,0.03964298756358873,0.8440126180648804
+335,107,disaster_withKeyword_0,batch_size,1,0.838760495185852
+335,107,disaster_withKeyword_0,dropout_rate,0.27388693891783916,0.838760495185852
+335,107,disaster_withKeyword_0,learning_rate,0.000004425492463366388,0.838760495185852
+335,107,disaster_withKeyword_0,lr_scheduler_type,2,0.838760495185852
+335,107,disaster_withKeyword_0,num_epochs,3,0.838760495185852
+335,107,disaster_withKeyword_0,weight_decay,0.0393097831707692,0.838760495185852
+336,107,disaster_withKeyword_0,batch_size,1,0.8445377945899963
+336,107,disaster_withKeyword_0,dropout_rate,0.275551390113297,0.8445377945899963
+336,107,disaster_withKeyword_0,learning_rate,0.0000021862905577533004,0.8445377945899963
+336,107,disaster_withKeyword_0,lr_scheduler_type,2,0.8445377945899963
+336,107,disaster_withKeyword_0,num_epochs,3,0.8445377945899963
+336,107,disaster_withKeyword_0,weight_decay,0.04107446295022761,0.8445377945899963
+338,107,disaster_withKeyword_0,batch_size,1,0.8298319578170776
+338,107,disaster_withKeyword_0,dropout_rate,0.2825228490295613,0.8298319578170776
+338,107,disaster_withKeyword_0,learning_rate,0.000001958702531953192,0.8298319578170776
+338,107,disaster_withKeyword_0,lr_scheduler_type,2,0.8298319578170776
+338,107,disaster_withKeyword_0,num_epochs,8,0.8298319578170776
+338,107,disaster_withKeyword_0,weight_decay,0.0385579912522611,0.8298319578170776
+339,107,disaster_withKeyword_0,batch_size,1,0.838760495185852
+339,107,disaster_withKeyword_0,dropout_rate,0.11918522933012374,0.838760495185852
+339,107,disaster_withKeyword_0,learning_rate,0.0000020052686207370684,0.838760495185852
+339,107,disaster_withKeyword_0,lr_scheduler_type,2,0.838760495185852
+339,107,disaster_withKeyword_0,num_epochs,8,0.838760495185852
+339,107,disaster_withKeyword_0,weight_decay,0.012593218792030382,0.838760495185852
+340,107,disaster_withKeyword_0,batch_size,1,0.8198529481887817
+340,107,disaster_withKeyword_0,dropout_rate,0.10669890782935453,0.8198529481887817
+340,107,disaster_withKeyword_0,learning_rate,0.000002016249590431219,0.8198529481887817
+340,107,disaster_withKeyword_0,lr_scheduler_type,2,0.8198529481887817
+340,107,disaster_withKeyword_0,num_epochs,9,0.8198529481887817
+340,107,disaster_withKeyword_0,weight_decay,0.02546598911697992,0.8198529481887817
+342,107,disaster_withKeyword_0,batch_size,1,0.8429622054100037
+342,107,disaster_withKeyword_0,dropout_rate,0.22991466539838973,0.8429622054100037
+342,107,disaster_withKeyword_0,learning_rate,0.0000021826455225885035,0.8429622054100037
+342,107,disaster_withKeyword_0,lr_scheduler_type,2,0.8429622054100037
+342,107,disaster_withKeyword_0,num_epochs,8,0.8429622054100037
+342,107,disaster_withKeyword_0,weight_decay,0.043441982516009336,0.8429622054100037
+344,107,disaster_withKeyword_0,batch_size,1,0.8214285969734192
+344,107,disaster_withKeyword_0,dropout_rate,0.22741632114901178,0.8214285969734192
+344,107,disaster_withKeyword_0,learning_rate,0.0000025467711952084698,0.8214285969734192
+344,107,disaster_withKeyword_0,lr_scheduler_type,2,0.8214285969734192
+344,107,disaster_withKeyword_0,num_epochs,8,0.8214285969734192
+344,107,disaster_withKeyword_0,weight_decay,0.04437803505413708,0.8214285969734192
+346,107,disaster_withKeyword_0,batch_size,1,0.8450630307197571
+346,107,disaster_withKeyword_0,dropout_rate,0.16603241597597937,0.8450630307197571
+346,107,disaster_withKeyword_0,learning_rate,0.000002547928471571237,0.8450630307197571
+346,107,disaster_withKeyword_0,lr_scheduler_type,2,0.8450630307197571
+346,107,disaster_withKeyword_0,num_epochs,3,0.8450630307197571
+346,107,disaster_withKeyword_0,weight_decay,0.043519840123813915,0.8450630307197571
+347,107,disaster_withKeyword_0,batch_size,1,0.8308823704719543
+347,107,disaster_withKeyword_0,dropout_rate,0.1672642543350872,0.8308823704719543
+347,107,disaster_withKeyword_0,learning_rate,0.0000010893819151734868,0.8308823704719543
+347,107,disaster_withKeyword_0,lr_scheduler_type,2,0.8308823704719543
+347,107,disaster_withKeyword_0,num_epochs,3,0.8308823704719543
+347,107,disaster_withKeyword_0,weight_decay,0.04327812129939943,0.8308823704719543
+351,107,disaster_withKeyword_0,batch_size,1,0.8445377945899963
+351,107,disaster_withKeyword_0,dropout_rate,0.25502780274933445,0.8445377945899963
+351,107,disaster_withKeyword_0,learning_rate,0.0000025589565312969888,0.8445377945899963
+351,107,disaster_withKeyword_0,lr_scheduler_type,2,0.8445377945899963
+351,107,disaster_withKeyword_0,num_epochs,3,0.8445377945899963
+351,107,disaster_withKeyword_0,weight_decay,0.05975508270955199,0.8445377945899963
+352,107,disaster_withKeyword_0,batch_size,1,0.832457959651947
+352,107,disaster_withKeyword_0,dropout_rate,0.2645254212219597,0.832457959651947
+352,107,disaster_withKeyword_0,learning_rate,0.0000015985313287887318,0.832457959651947
+352,107,disaster_withKeyword_0,lr_scheduler_type,2,0.832457959651947
+352,107,disaster_withKeyword_0,num_epochs,6,0.832457959651947
+352,107,disaster_withKeyword_0,weight_decay,0.059349391037353275,0.832457959651947
+353,107,disaster_withKeyword_0,batch_size,1,0.8335084319114685
+353,107,disaster_withKeyword_0,dropout_rate,0.3063625550283354,0.8335084319114685
+353,107,disaster_withKeyword_0,learning_rate,0.0000026094906120759933,0.8335084319114685
+353,107,disaster_withKeyword_0,lr_scheduler_type,2,0.8335084319114685
+353,107,disaster_withKeyword_0,num_epochs,3,0.8335084319114685
+353,107,disaster_withKeyword_0,weight_decay,0.059021215691878,0.8335084319114685
+354,107,disaster_withKeyword_0,batch_size,1,0.838760495185852
+354,107,disaster_withKeyword_0,dropout_rate,0.16202215153420604,0.838760495185852
+354,107,disaster_withKeyword_0,learning_rate,0.0000015092855580366617,0.838760495185852
+354,107,disaster_withKeyword_0,lr_scheduler_type,2,0.838760495185852
+354,107,disaster_withKeyword_0,num_epochs,3,0.838760495185852
+354,107,disaster_withKeyword_0,weight_decay,0.05035846712145906,0.838760495185852
+356,107,disaster_withKeyword_0,batch_size,1,0.8340336084365845
+356,107,disaster_withKeyword_0,dropout_rate,0.25494431634134845,0.8340336084365845
+356,107,disaster_withKeyword_0,learning_rate,0.000003961586445507747,0.8340336084365845
+356,107,disaster_withKeyword_0,lr_scheduler_type,1,0.8340336084365845
+356,107,disaster_withKeyword_0,num_epochs,4,0.8340336084365845
+356,107,disaster_withKeyword_0,weight_decay,0.06000725792267049,0.8340336084365845
+357,107,disaster_withKeyword_0,batch_size,1,0.8398109078407288
+357,107,disaster_withKeyword_0,dropout_rate,0.2483768870318064,0.8398109078407288
+357,107,disaster_withKeyword_0,learning_rate,0.0000016729605641553753,0.8398109078407288
+357,107,disaster_withKeyword_0,lr_scheduler_type,1,0.8398109078407288
+357,107,disaster_withKeyword_0,num_epochs,4,0.8398109078407288
+357,107,disaster_withKeyword_0,weight_decay,0.07619362531911153,0.8398109078407288
+359,107,disaster_withKeyword_0,batch_size,1,0.8440126180648804
+359,107,disaster_withKeyword_0,dropout_rate,0.2570975329194211,0.8440126180648804
+359,107,disaster_withKeyword_0,learning_rate,0.000004065885758279902,0.8440126180648804
+359,107,disaster_withKeyword_0,lr_scheduler_type,2,0.8440126180648804
+359,107,disaster_withKeyword_0,num_epochs,4,0.8440126180648804
+359,107,disaster_withKeyword_0,weight_decay,0.04833747850854258,0.8440126180648804
+361,107,disaster_withKeyword_0,batch_size,1,0.8266806602478027
+361,107,disaster_withKeyword_0,dropout_rate,0.2541950842416367,0.8266806602478027
+361,107,disaster_withKeyword_0,learning_rate,0.000004070742615824958,0.8266806602478027
+361,107,disaster_withKeyword_0,lr_scheduler_type,2,0.8266806602478027
+361,107,disaster_withKeyword_0,num_epochs,4,0.8266806602478027
+361,107,disaster_withKeyword_0,weight_decay,0.07337732295508148,0.8266806602478027
+362,107,disaster_withKeyword_0,batch_size,1,0.8476890921592712
+362,107,disaster_withKeyword_0,dropout_rate,0.13351924015737263,0.8476890921592712
+362,107,disaster_withKeyword_0,learning_rate,0.0000037553667023808855,0.8476890921592712
+362,107,disaster_withKeyword_0,lr_scheduler_type,2,0.8476890921592712
+362,107,disaster_withKeyword_0,num_epochs,3,0.8476890921592712
+362,107,disaster_withKeyword_0,weight_decay,0.03451410709391993,0.8476890921592712
+363,107,disaster_withKeyword_0,batch_size,1,0.8261554837226868
+363,107,disaster_withKeyword_0,dropout_rate,0.3645691561199354,0.8261554837226868
+363,107,disaster_withKeyword_0,learning_rate,0.0000024590601386656653,0.8261554837226868
+363,107,disaster_withKeyword_0,lr_scheduler_type,2,0.8261554837226868
+363,107,disaster_withKeyword_0,num_epochs,3,0.8261554837226868
+363,107,disaster_withKeyword_0,weight_decay,0.04833302496837982,0.8261554837226868
+366,107,disaster_withKeyword_0,batch_size,1,0.8403361439704895
+366,107,disaster_withKeyword_0,dropout_rate,0.13791820766600027,0.8403361439704895
+366,107,disaster_withKeyword_0,learning_rate,0.0000024985647098500724,0.8403361439704895
+366,107,disaster_withKeyword_0,lr_scheduler_type,2,0.8403361439704895
+366,107,disaster_withKeyword_0,num_epochs,3,0.8403361439704895
+366,107,disaster_withKeyword_0,weight_decay,0.04755157285473038,0.8403361439704895
+367,107,disaster_withKeyword_0,batch_size,1,0.8377100825309753
+367,107,disaster_withKeyword_0,dropout_rate,0.1698330391213278,0.8377100825309753
+367,107,disaster_withKeyword_0,learning_rate,0.000005723208465665066,0.8377100825309753
+367,107,disaster_withKeyword_0,lr_scheduler_type,2,0.8377100825309753
+367,107,disaster_withKeyword_0,num_epochs,3,0.8377100825309753
+367,107,disaster_withKeyword_0,weight_decay,0.03277770510494409,0.8377100825309753
+368,107,disaster_withKeyword_0,batch_size,0,"In Progress Or Failed"
+368,107,disaster_withKeyword_0,dropout_rate,0.13255807055167398,"In Progress Or Failed"
+368,107,disaster_withKeyword_0,learning_rate,0.000006399429214169531,"In Progress Or Failed"
+368,107,disaster_withKeyword_0,lr_scheduler_type,1,"In Progress Or Failed"
+368,107,disaster_withKeyword_0,num_epochs,5,"In Progress Or Failed"
+368,107,disaster_withKeyword_0,weight_decay,0.034609280131849274,"In Progress Or Failed"
+273,116,disaster_withKeyword_1,batch_size,1,"In Progress Or Failed"
+273,116,disaster_withKeyword_1,dropout_rate,0.4531170210566514,"In Progress Or Failed"
+273,116,disaster_withKeyword_1,learning_rate,0.000005264856109430675,"In Progress Or Failed"
+273,116,disaster_withKeyword_1,lr_scheduler_type,3,"In Progress Or Failed"
+273,116,disaster_withKeyword_1,num_epochs,10,"In Progress Or Failed"
+273,116,disaster_withKeyword_1,weight_decay,0.03831860952835764,"In Progress Or Failed"
+235,109,disaster_WithOutKeyword_0,batch_size,1,0.7872899174690247
+235,109,disaster_WithOutKeyword_0,dropout_rate,0.47120805008236377,0.7872899174690247
+235,109,disaster_WithOutKeyword_0,learning_rate,0.000001364111741723966,0.7872899174690247
+235,109,disaster_WithOutKeyword_0,lr_scheduler_type,2,0.7872899174690247
+235,109,disaster_WithOutKeyword_0,num_epochs,6,0.7872899174690247
+235,109,disaster_WithOutKeyword_0,weight_decay,0.09822294983406162,0.7872899174690247
+236,109,disaster_WithOutKeyword_0,batch_size,1,0.8172268867492676
+236,109,disaster_WithOutKeyword_0,dropout_rate,0.3489042028088287,0.8172268867492676
+236,109,disaster_WithOutKeyword_0,learning_rate,0.00009035518050366282,0.8172268867492676
+236,109,disaster_WithOutKeyword_0,lr_scheduler_type,3,0.8172268867492676
+236,109,disaster_WithOutKeyword_0,num_epochs,7,0.8172268867492676
+236,109,disaster_WithOutKeyword_0,weight_decay,0.005374547703062538,0.8172268867492676
+237,109,disaster_WithOutKeyword_0,batch_size,0,0.8235294222831726
+237,109,disaster_WithOutKeyword_0,dropout_rate,0.35732400672143094,0.8235294222831726
+237,109,disaster_WithOutKeyword_0,learning_rate,0.0000019663828121361384,0.8235294222831726
+237,109,disaster_WithOutKeyword_0,lr_scheduler_type,3,0.8235294222831726
+237,109,disaster_WithOutKeyword_0,num_epochs,4,0.8235294222831726
+237,109,disaster_WithOutKeyword_0,weight_decay,0.045774570930078785,0.8235294222831726
+239,109,disaster_WithOutKeyword_0,batch_size,2,0.8151260614395142
+239,109,disaster_WithOutKeyword_0,dropout_rate,0.48126767874159093,0.8151260614395142
+239,109,disaster_WithOutKeyword_0,learning_rate,0.000004680558706753469,0.8151260614395142
+239,109,disaster_WithOutKeyword_0,lr_scheduler_type,1,0.8151260614395142
+239,109,disaster_WithOutKeyword_0,num_epochs,4,0.8151260614395142
+239,109,disaster_WithOutKeyword_0,weight_decay,0.08382227200989345,0.8151260614395142
+242,109,disaster_WithOutKeyword_0,batch_size,0,0.8240545988082886
+242,109,disaster_WithOutKeyword_0,dropout_rate,0.3676613145617721,0.8240545988082886
+242,109,disaster_WithOutKeyword_0,learning_rate,0.000022906941893733487,0.8240545988082886
+242,109,disaster_WithOutKeyword_0,lr_scheduler_type,1,0.8240545988082886
+242,109,disaster_WithOutKeyword_0,num_epochs,8,0.8240545988082886
+242,109,disaster_WithOutKeyword_0,weight_decay,0.018865015572714295,0.8240545988082886
+244,109,disaster_WithOutKeyword_0,batch_size,2,0.7673319578170776
+244,109,disaster_WithOutKeyword_0,dropout_rate,0.4032267842210283,0.7673319578170776
+244,109,disaster_WithOutKeyword_0,learning_rate,0.0000012134893314332724,0.7673319578170776
+244,109,disaster_WithOutKeyword_0,lr_scheduler_type,3,0.7673319578170776
+244,109,disaster_WithOutKeyword_0,num_epochs,5,0.7673319578170776
+244,109,disaster_WithOutKeyword_0,weight_decay,0.09869712163978311,0.7673319578170776
+245,109,disaster_WithOutKeyword_0,batch_size,2,0.8350840210914612
+245,109,disaster_WithOutKeyword_0,dropout_rate,0.359110216928919,0.8350840210914612
+245,109,disaster_WithOutKeyword_0,learning_rate,0.000006067189073809203,0.8350840210914612
+245,109,disaster_WithOutKeyword_0,lr_scheduler_type,2,0.8350840210914612
+245,109,disaster_WithOutKeyword_0,num_epochs,10,0.8350840210914612
+245,109,disaster_WithOutKeyword_0,weight_decay,0.02509182782167423,0.8350840210914612
+246,109,disaster_WithOutKeyword_0,batch_size,2,0.8350840210914612
+246,109,disaster_WithOutKeyword_0,dropout_rate,0.16441662283382164,0.8350840210914612
+246,109,disaster_WithOutKeyword_0,learning_rate,0.00002033855864867258,0.8350840210914612
+246,109,disaster_WithOutKeyword_0,lr_scheduler_type,3,0.8350840210914612
+246,109,disaster_WithOutKeyword_0,num_epochs,5,0.8350840210914612
+246,109,disaster_WithOutKeyword_0,weight_decay,0.03266280933443612,0.8350840210914612
+250,109,disaster_WithOutKeyword_0,batch_size,2,0.8214285969734192
+250,109,disaster_WithOutKeyword_0,dropout_rate,0.10038383691614894,0.8214285969734192
+250,109,disaster_WithOutKeyword_0,learning_rate,0.000013562619214502613,0.8214285969734192
+250,109,disaster_WithOutKeyword_0,lr_scheduler_type,2,0.8214285969734192
+250,109,disaster_WithOutKeyword_0,num_epochs,5,0.8214285969734192
+250,109,disaster_WithOutKeyword_0,weight_decay,0.09139463910948972,0.8214285969734192
+253,109,disaster_WithOutKeyword_0,batch_size,0,0.8534663915634155
+253,109,disaster_WithOutKeyword_0,dropout_rate,0.2658604146509326,0.8534663915634155
+253,109,disaster_WithOutKeyword_0,learning_rate,0.0000031661812034036285,0.8534663915634155
+253,109,disaster_WithOutKeyword_0,lr_scheduler_type,3,0.8534663915634155
+253,109,disaster_WithOutKeyword_0,num_epochs,5,0.8534663915634155
+253,109,disaster_WithOutKeyword_0,weight_decay,0.07841368564257711,0.8534663915634155
+255,109,disaster_WithOutKeyword_0,batch_size,2,0.8251050710678101
+255,109,disaster_WithOutKeyword_0,dropout_rate,0.4985130297941681,0.8251050710678101
+255,109,disaster_WithOutKeyword_0,learning_rate,0.000003942862281904275,0.8251050710678101
+255,109,disaster_WithOutKeyword_0,lr_scheduler_type,1,0.8251050710678101
+255,109,disaster_WithOutKeyword_0,num_epochs,8,0.8251050710678101
+255,109,disaster_WithOutKeyword_0,weight_decay,0.059591336772215314,0.8251050710678101
+256,109,disaster_WithOutKeyword_0,batch_size,0,0.8450630307197571
+256,109,disaster_WithOutKeyword_0,dropout_rate,0.20637478187455885,0.8450630307197571
+256,109,disaster_WithOutKeyword_0,learning_rate,0.0000063056511625377195,0.8450630307197571
+256,109,disaster_WithOutKeyword_0,lr_scheduler_type,3,0.8450630307197571
+256,109,disaster_WithOutKeyword_0,num_epochs,4,0.8450630307197571
+256,109,disaster_WithOutKeyword_0,weight_decay,0.0413651701894187,0.8450630307197571
+259,109,disaster_WithOutKeyword_0,batch_size,0,0.8077731132507324
+259,109,disaster_WithOutKeyword_0,dropout_rate,0.300895028477672,0.8077731132507324
+259,109,disaster_WithOutKeyword_0,learning_rate,0.00003247605313286276,0.8077731132507324
+259,109,disaster_WithOutKeyword_0,lr_scheduler_type,0,0.8077731132507324
+259,109,disaster_WithOutKeyword_0,num_epochs,8,0.8077731132507324
+259,109,disaster_WithOutKeyword_0,weight_decay,0.028061485709951952,0.8077731132507324
+261,109,disaster_WithOutKeyword_0,batch_size,0,0.8429622054100037
+261,109,disaster_WithOutKeyword_0,dropout_rate,0.2277651147749777,0.8429622054100037
+261,109,disaster_WithOutKeyword_0,learning_rate,0.0000033065771886109315,0.8429622054100037
+261,109,disaster_WithOutKeyword_0,lr_scheduler_type,0,0.8429622054100037
+261,109,disaster_WithOutKeyword_0,num_epochs,3,0.8429622054100037
+261,109,disaster_WithOutKeyword_0,weight_decay,0.06997696665174982,0.8429622054100037
+262,109,disaster_WithOutKeyword_0,batch_size,0,0.8340336084365845
+262,109,disaster_WithOutKeyword_0,dropout_rate,0.24622549229086102,0.8340336084365845
+262,109,disaster_WithOutKeyword_0,learning_rate,0.0000043227349682998996,0.8340336084365845
+262,109,disaster_WithOutKeyword_0,lr_scheduler_type,0,0.8340336084365845
+262,109,disaster_WithOutKeyword_0,num_epochs,10,0.8340336084365845
+262,109,disaster_WithOutKeyword_0,weight_decay,0.06768145420596416,0.8340336084365845
+263,109,disaster_WithOutKeyword_0,batch_size,0,0.8366596698760986
+263,109,disaster_WithOutKeyword_0,dropout_rate,0.25345211107074045,0.8366596698760986
+263,109,disaster_WithOutKeyword_0,learning_rate,0.000002551161083474633,0.8366596698760986
+263,109,disaster_WithOutKeyword_0,lr_scheduler_type,0,0.8366596698760986
+263,109,disaster_WithOutKeyword_0,num_epochs,3,0.8366596698760986
+263,109,disaster_WithOutKeyword_0,weight_decay,0.06638694373569413,0.8366596698760986
+265,109,disaster_WithOutKeyword_0,batch_size,0,0.8424369692802429
+265,109,disaster_WithOutKeyword_0,dropout_rate,0.2624608270612937,0.8424369692802429
+265,109,disaster_WithOutKeyword_0,learning_rate,0.000009081197861711624,0.8424369692802429
+265,109,disaster_WithOutKeyword_0,lr_scheduler_type,3,0.8424369692802429
+265,109,disaster_WithOutKeyword_0,num_epochs,3,0.8424369692802429
+265,109,disaster_WithOutKeyword_0,weight_decay,0.07237540287354723,0.8424369692802429
+268,109,disaster_WithOutKeyword_0,batch_size,0,0.8408613204956055
+268,109,disaster_WithOutKeyword_0,dropout_rate,0.26981164945897995,0.8408613204956055
+268,109,disaster_WithOutKeyword_0,learning_rate,0.000008517403734317576,0.8408613204956055
+268,109,disaster_WithOutKeyword_0,lr_scheduler_type,3,0.8408613204956055
+268,109,disaster_WithOutKeyword_0,num_epochs,6,0.8408613204956055
+268,109,disaster_WithOutKeyword_0,weight_decay,0.045558394615183254,0.8408613204956055
+269,109,disaster_WithOutKeyword_0,batch_size,0,0.8461134433746338
+269,109,disaster_WithOutKeyword_0,dropout_rate,0.18790982274944096,0.8461134433746338
+269,109,disaster_WithOutKeyword_0,learning_rate,0.00000771867439144627,0.8461134433746338
+269,109,disaster_WithOutKeyword_0,lr_scheduler_type,3,0.8461134433746338
+269,109,disaster_WithOutKeyword_0,num_epochs,6,0.8461134433746338
+269,109,disaster_WithOutKeyword_0,weight_decay,0.045242710864773245,0.8461134433746338
+272,109,disaster_WithOutKeyword_0,batch_size,0,"In Progress Or Failed"
+272,109,disaster_WithOutKeyword_0,dropout_rate,0.18272333304930458,"In Progress Or Failed"
+272,109,disaster_WithOutKeyword_0,learning_rate,0.000008278763940891275,"In Progress Or Failed"
+272,109,disaster_WithOutKeyword_0,lr_scheduler_type,3,"In Progress Or Failed"
+272,109,disaster_WithOutKeyword_0,num_epochs,6,"In Progress Or Failed"
+272,109,disaster_WithOutKeyword_0,weight_decay,0.040719795241566804,"In Progress Or Failed"
+276,109,disaster_WithOutKeyword_0,batch_size,0,0.8182772994041443
+276,109,disaster_WithOutKeyword_0,dropout_rate,0.1757820333582063,0.8182772994041443
+276,109,disaster_WithOutKeyword_0,learning_rate,0.00000785008210248949,0.8182772994041443
+276,109,disaster_WithOutKeyword_0,lr_scheduler_type,3,0.8182772994041443
+276,109,disaster_WithOutKeyword_0,num_epochs,6,0.8182772994041443
