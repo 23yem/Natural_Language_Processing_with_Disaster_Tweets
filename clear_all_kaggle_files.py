@@ -17,7 +17,8 @@ for file in files:
         elif os.path.isdir(file_path) and file != 'saved_models':
             shutil.rmtree(file_path)
     except Exception as e:
-        print(f'Failed to delete {file}. Reason: {e}')
+        print(f'Failed to delete {file}. Reason: {e}')4
+        
 
 # Delete each file in the saved_models directory
 if os.path.exists(saved_models_directory):
