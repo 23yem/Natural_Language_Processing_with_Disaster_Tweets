@@ -1,0 +1,9 @@
+Welcome! These are some of my notebooks on Kaggle. I made so many notebooks because each notebook is dedicated to a seperate experiment.
+
+For example, roberta-michael.ipynb was for testing out the RoBERTa model. And the disaster-tfrecord-michael.ipynb was for trying out tfrecord. 
+
+The notebook titles can get messy, but that's how I named them on Kaggle at the time.
+
+At the top of each notebook, I'll try my best to explain what experiment each notebook was trying. So for each notebook, look at the top Kernel.
+
+Have fun reading my notebooks!
