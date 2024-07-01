@@ -8,6 +8,8 @@ saved_models_directory = os.path.join(output_directory, 'saved_models')
 files = os.listdir(output_directory)
 
 
+
+
 # Delete each file in the output directory
 for file in files:
     file_path = os.path.join(output_directory, file)
