@@ -9,9 +9,6 @@ directory = os.path.join(output_directory, directory_name)
 # List all files in the output directory
 files = os.listdir(output_directory)
 
-
-
-
 # Delete each file in the output directory
 for file in files:
     file_path = os.path.join(output_directory, file)
