@@ -4,7 +4,6 @@ import shutil
 output_directory = '/kaggle/working'
 directory_name = 'saved_models' # change this to whatever directory you need to clear
 
-
 directory = os.path.join(output_directory, directory_name)
 
 # List all files in the output directory
